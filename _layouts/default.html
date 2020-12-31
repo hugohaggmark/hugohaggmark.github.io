@@ -22,28 +22,18 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <div class="wrapper">
-         {%- assign default_paths = site.pages | map: "path" -%}
-         {%- assign page_paths = site.header_pages | default: default_paths -%}
-         {%- if page_paths -%}
-         <div style="padding: 5px 0;">
-          {%- for path in page_paths -%}
-            {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
-            <span style="margin-right:4px;"><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></span>
-            {%- endif -%}
-          {%- endfor -%}
-         </div>
-         {%- endif -%}
-       </div>
-
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
+        {%- assign default_paths = site.pages | map: "path" -%}
+        {%- assign page_paths = site.header_pages | default: default_paths -%}
+        {%- if page_paths -%}
+        <div style="display:flex;flex-flow: column nowrap; justify-content: space-evenly;align-items: flex-end;">
+        {%- for path in page_paths -%}
+          {%- assign my_page = site.pages | where: "path", path | first -%}
+          {%- if my_page.title -%}
+          <div><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></div>
+          {%- endif -%}
+        {%- endfor -%}
+        </div>
+        {%- endif -%}
 
         {% if site.show_downloads %}
         <ul class="downloads">
