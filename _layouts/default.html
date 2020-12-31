@@ -10,6 +10,20 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <style>
+      .pages-container {
+        display:flex;
+        flex-flow: column nowrap; 
+        justify-content: space-evenly;
+        align-items: flex-end;
+      }
+      @media print, screen and (max-width: 960px) {
+        .pages-container {
+          flex-flow: row nowrap;
+          justify-content: space-between;
+        }
+      }
+    </style>
   </head>
   <body>
     <div class="wrapper">
@@ -25,7 +39,7 @@
         {%- assign default_paths = site.pages | map: "path" -%}
         {%- assign page_paths = site.header_pages | default: default_paths -%}
         {%- if page_paths -%}
-        <div style="display:flex;flex-flow: column nowrap; justify-content: space-evenly;align-items: flex-end;">
+        <div class="pages-container">
         {%- for path in page_paths -%}
           {%- assign my_page = site.pages | where: "path", path | first -%}
           {%- if my_page.title -%}

@@ -10,7 +10,7 @@ tags:
 permalink: "/2017/09/28/growing-up-is-losing-some-illusions-in-order-to-acquire-others-virginia-woolf/"
 ---
 
-[caption id="attachment\_992" align="alignnone" width="525"]![William 18 collage]({{ site.baseurl }}/assets/images/2017/09/Wille18_Collage-1024x946.png)](http://www.hugohaggmark.com/wp-content/uploads/2017/09/Wille18_Collage.png) The many faces of William[/caption]
+![The many faces of William]({{ site.baseurl }}/assets/images/2017/09/Wille18_Collage-1024x946.png)
 
 You can never really prepare yourself for the arrival of your first child and even less so for the delivery of the same.
 
