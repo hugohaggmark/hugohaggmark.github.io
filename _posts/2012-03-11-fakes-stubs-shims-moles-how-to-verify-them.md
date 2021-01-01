@@ -2,14 +2,6 @@
 layout: post
 title: Fakes, Stubs, Shims, Moles and how to verify them?
 date: 2012-03-11 10:47:51.000000000 +01:00
-categories:
-  - Bootable VHD
-  - Fakes
-  - Moles
-  - SharePoint
-  - TDD
-  - Unit Testing
-  - Windows 8
 tags:
   - Bootable VHD
   - Fakes

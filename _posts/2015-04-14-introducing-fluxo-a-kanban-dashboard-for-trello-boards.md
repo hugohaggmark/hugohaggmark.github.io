@@ -2,7 +2,6 @@
 layout: post
 title: Introducing Fluxo a Kanban dashboard for Trello Boards
 date: 2015-04-14 06:50:57.000000000 +02:00
-categories: []
 tags:
   - Cycletime
   - Fluxo
@@ -15,7 +14,7 @@ permalink: "/2015/04/14/introducing-fluxo-a-kanban-dashboard-for-trello-boards/"
 
 > Fluxo or Hugo Häggmark is not affiliated, associated, authorized, endorsed by or in any way officially connected to Trello, Inc. (www.trello.com).
 
-Last week I introduced my latest "commute from and to work" project called TrellBan [here](http://fluxo.herokuapp.com/demo/).
+Last week I introduced my latest "commute from and to work" project called TrellBan [http://fluxo.herokuapp.com/demo/](http://fluxo.herokuapp.com/demo/).
 
 So I received a very kind but to the point email from the Trello support team last night telling me that the name TrellBan was to close to Trello.
 
@@ -25,15 +24,15 @@ Fluxo means flow in portuguese (my mother tongue) and I think it is a short and 
 
 So TrellBan is disontinued as of now and the replacement Fluxo is still an open source project that you can find here:
 
-[https://github.com/hugohaggmark/Fluxo](https://github.com/hugohaggmark/Fluxo "Fluxo on GitHub")
+[https://github.com/fluxo-app/](https://github.com/fluxo-app/)
 
-The latest release of the Fluxo&nbsp;can be found here:
+The latest release of the Fluxo can be found here:
 
-[http://fluxo.herokuapp.com/](http://fluxo.herokuapp.com/ "Fluxo")
+[http://fluxo.herokuapp.com/](http://fluxo.herokuapp.com/)
 
 And a demo of Fluxo can be found here:
 
-[http://fluxo.herokuapp.com/demo/](http://fluxo.herokuapp.com/demo/ "Fluxo Demo")
+[http://fluxo.herokuapp.com/demo/](http://fluxo.herokuapp.com/demo/)
 
 Sorry for any inconvenience this has caused,
 

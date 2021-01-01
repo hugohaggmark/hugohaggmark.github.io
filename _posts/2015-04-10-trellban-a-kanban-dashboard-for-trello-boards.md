@@ -2,7 +2,6 @@
 layout: post
 title: Fluxo a Kanban Dashboard for Trello Boards
 date: 2015-04-10 16:42:14.000000000 +02:00
-categories: []
 tags:
   - Cycletime
   - Fluxo
@@ -15,9 +14,9 @@ permalink: "/2015/04/10/trellban-a-kanban-dashboard-for-trello-boards/"
 
 > Fluxo or Hugo Häggmark is not affiliated, associated, authorized, endorsed by or in any way officially connected to Trello, Inc. (www.trello.com).
 >
-> Read this [post](http://wp.me/p26Dmp-cS "Introducing Fluxo")for more information.
+> Read this [post "Introducing Fluxo"]({{ site.baseurl }}{% link _posts/2015-04-14-introducing-fluxo-a-kanban-dashboard-for-trello-boards.md %}) for more information.
 
-[caption id="" align="alignnone" width="1196"] ![Fluxo]({{ site.baseurl }}/assets/images/2015/04/totals.png) Fluxo[/caption]
+![Fluxo logo]({{ site.baseurl }}/assets/images/2017/03/favicon-196x196-150x150.png)
 
 I've a lot of time between home and work every day because I live about 30 km from Stockholm in a suburb called Vallentuna.
 
@@ -37,11 +36,10 @@ He did find Screenful (http://www.screenful.me/screenful-for-trello/) which is a
 
 So I got the idea to make this my new "while I'm commuting from and to work" project.
 
-The project is called Fluxo&nbsp; ~~TrellBan~~ and is completely open source, you can find the source code at&nbsp;[https://github.com/hugohaggmark/Fluxo](https://github.com/hugohaggmark/Fluxo "Fluxo on GitHub")&nbsp;~~[https://github.com/hugohaggmark/TrellBan/](%20https://github.com/hugohaggmark/TrellBan/ "TrellBan source code")~~ and  
-the lastest working release of TrellBan can be found at [http://fluxo.herokuapp.com/](http://fluxo.herokuapp.com/ "Fluxo")&nbsp;~~[http://trellban.herokuapp.com/](http://trellban.herokuapp.com/ "TrellBan Application")~~.
+The project is called Fluxo ~~TrellBan~~ and is completely open source, you can find the source code at [https://github.com/fluxo-app/](https://github.com/fluxo-app/) and the lastest working release of Fluxo ~~TrellBan~~ can be found at [http://fluxo.herokuapp.com/](http://fluxo.herokuapp.com/).
 
-If you want to get at glimpse of what the dashboard actually looks like (with dummy data) you can see a demo at [http://fluxo.herokuapp.com/demo/](http://fluxo.herokuapp.com/demo/ "Fluxo Demo")&nbsp;~~[http://trellban.herokuapp.com/demo/](http://trellban.herokuapp.com/demo/ "TrellBan demo")~~.
+If you want to get at glimpse of what the dashboard actually looks like (with dummy data) you can see a demo at [https://fluxo.hugohaggmark.com/try-it-out](https://fluxo.hugohaggmark.com/try-it-out).
 
-I hope you enjoy Fluxo&nbsp; ~~TrellBan~~ ,
+I hope you enjoy Fluxo ~~TrellBan~~ ,
 
 Hugo

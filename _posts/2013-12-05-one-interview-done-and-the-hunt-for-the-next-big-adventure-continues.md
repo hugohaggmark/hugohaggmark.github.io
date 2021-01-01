@@ -2,8 +2,6 @@
 layout: post
 title: One Interview done and the hunt for the next big adventure continues
 date: 2013-12-05 09:41:16.000000000 +01:00
-categories:
-  - Personal
 tags:
   - Personal
 permalink: "/2013/12/05/one-interview-done-and-the-hunt-for-the-next-big-adventure-continues/"
@@ -29,4 +27,4 @@ I found this interview to be fascinating, very professional, refreshing and I’
 
 /Hugo
 
-[![IMG_1789]({{ site.baseurl }}/assets/images/2013/12/IMG_1789_thumb.jpg "IMG_1789")](http://www.hugohaggmark.com/wp-content/uploads/2013/12/IMG_1789.jpg)
+![IMG_1789]({{ site.baseurl }}/assets/images/2013/12/IMG_1789_thumb.jpg "IMG_1789")

@@ -2,8 +2,6 @@
 layout: post
 title: New React/Redux version of Fluxo released!
 date: 2017-03-24 10:11:22.000000000 +01:00
-categories:
-  - Personal
 tags:
   - DashBoards
   - Fluxo

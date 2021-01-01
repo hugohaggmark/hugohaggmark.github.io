@@ -2,11 +2,6 @@
 layout: post
 title: Stop doing TDD and start doing BDD with SharePoint!
 date: 2014-02-24 12:00:10.000000000 +01:00
-categories:
-  - BDD
-  - Fakes
-  - Moles
-  - TDD
 tags:
   - BDD
   - Fakes
@@ -16,11 +11,11 @@ tags:
 permalink: "/2014/02/24/stop-doing-tdd-and-start-doing-bdd-with-sharepoint/"
 ---
 
-I’m certainly one of those guys that like to do TDD and If you ask people what differentiates me from other developers you will almost certainly get the answer that I'm really serious about quality.&nbsp;&nbsp;
+I’m certainly one of those guys that like to do TDD and If you ask people what differentiates me from other developers you will almost certainly get the answer that I'm really serious about quality.
 
 But after my last project I’ve been become “wiser” or more careful with what kind of tests to use when and where. So why the unusually provoking title?
 
-Last week I got a tweet from my friend [Johan](http://johanleino.wordpress.com/ "Johan")about tips on how to do TDD in SharePoint with assemblies that reside in the GAC.[![Stop doing TDD and start doing BDD with SharePoint]({{ site.baseurl }}/assets/images/2014/02/image.png)](http://www.hugohaggmark.com/wp-content/uploads/2014/02/image.png)
+Last week I got a tweet from my friend [Johan](http://johanleino.wordpress.com/) about tips on how to do TDD in SharePoint with assemblies that reside in the GAC. ![Stop doing TDD and start doing BDD with SharePoint]({{ site.baseurl }}/assets/images/2014/02/image.png)
 
 For a brief second I thought that I would just give him a list with the different methods/hacks/workarounds I’ve seen and then I thought:
 
@@ -44,7 +39,7 @@ I’ll even give you some methods I’ve used/seen/hacked/worked around the last
 
 1. Set Assembly version to 1.0.0.\*, this way you won’t have any issues with the GAC thingy. But you’ll have lots of other side effects that you need to mitigate/automate.
 2. Retract dll’s in test setup/teardown.
-3. Write you class under test in the test project and then move it. Johan wrote about a great spin-off on this method [here](http://johanleino.wordpress.com/2014/02/20/workaround-for-unit-testing-code-that-reside-in-the-gac/ "Workaround for unit testing code that reside in the GAC").
+3. Write you class under test in the test project and then move it. [Johan wrote about a great spin-off on this method in Workaround for unit testing code that reside in the GAC](http://johanleino.wordpress.com/2014/02/20/workaround-for-unit-testing-code-that-reside-in-the-gac/).
 4. Wrap SharePoint artifacts with your own Interfaces.
 5. Separate your domain from the infrastructure, and TDD the domain object only leave the infrastructure alone!
 6. Use a mocking technology like Fakes/Shims/Moles/TypeMock. This demands a really deep knowledge and understanding of SharePoint so if you think this is something you’d like to try, I say beware you’re treading in deep dark waters.
@@ -53,6 +48,6 @@ What you should do instead is to treat SharePoint as the framework it is much li
 
 BDD is a nice way to do this, you invest more time in designing behaviors or capabilities of your application using SharePoint as one of those capabilities.
 
-But that's just my very personal 2 &nbsp;cents,
+But that's just my very personal 2 cents,
 
 Hugo

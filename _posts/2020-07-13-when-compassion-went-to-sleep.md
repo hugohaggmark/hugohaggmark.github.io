@@ -2,8 +2,6 @@
 layout: post
 title: When compassion went  to sleep
 date: 2020-07-13 08:22:45.000000000 +02:00
-categories:
-  - Personal
 tags:
   - Personal
 permalink: "/2020/07/13/when-compassion-went-to-sleep/"

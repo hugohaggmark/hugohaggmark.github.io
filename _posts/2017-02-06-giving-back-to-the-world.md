@@ -2,8 +2,6 @@
 layout: post
 title: Giving back to the world
 date: 2017-02-06 11:30:02.000000000 +01:00
-categories:
-  - Personal
 tags:
   - Personal
 permalink: "/2017/02/06/giving-back-to-the-world/"
@@ -25,7 +23,7 @@ A couple of companies checked all my boxes but only one made it to the finish li
 
 The 27th of March 2017 I’m very happy and honoured to join [RaySearch Laboratories](http://www.raysearchlabs.com) as a Software Developer. ([http://www.raysearchlabs.com](http://www.raysearchlabs.com))
 
-[![RaySearch Laboratories]({{ site.baseurl }}/assets/images/2017/02/raysearch_logotype_black-300x121.png)](http://www.hugohaggmark.com/wp-content/uploads/2017/02/raysearch_logotype_black.png)
+[![RaySearch Laboratories]({{ site.baseurl }}/assets/images/2017/02/raysearch_logotype_black-300x121.png)
 
 See you around,
 

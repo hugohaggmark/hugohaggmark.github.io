@@ -2,14 +2,12 @@
 layout: post
 title: See ya later Mob programming, hello parenting
 date: 2015-12-16 08:00:20.000000000 +01:00
-categories:
-  - Personal
 tags:
   - Personal
 permalink: "/2015/12/16/see-ya-later-mob-programming-hello-parenting/"
 ---
 
-[caption id="attachment\_866" align="alignnone" width="300"]![Vader-and-Daughter-06]({{ site.baseurl }}/assets/images/2015/12/Vader-and-Daughter-06-300x292.jpg "From the Book Vader's little Princess")](http://www.hugohaggmark.com/wp-content/uploads/2015/12/Vader-and-Daughter-06.jpg) From the Book Vader's little Princess[/caption]
+![Vader and Daughter From the Book Vader's little Princess]({{ site.baseurl }}/assets/images/2015/12/Vader-and-Daughter-06-300x292.jpg)
 
 Yes you heard me right! I'm leaving my work life for a fulltime life as a father for our daughter Paula, beginning the 23rd of December.
 
@@ -30,7 +28,7 @@ There you go, I'm all setup for my parental leave but as a last thing a thought 
 
 If you're not interested in reading about keeping yourself lean, Agile and fast stop reading now. For the rest of you I hope you enjoy.&nbsp;
 
-## **Mob programming**
+## Mob programming
 
 Our team has been Mob programming for more than one year now. It's still fun and It's really obvious that we all are so Intune with each other that there is very little discussion on how to solve the basic stuff.
 
@@ -40,7 +38,7 @@ By the way I think this might be one of the Achilles heels for Mob programming, 
 
 See my previous post [here](http://www.hugohaggmark.com/2015/06/04/mob-programming-in-short/)for more info.
 
-## **Outsourcing**
+## Outsourcing
 
 While we have made the transition from an agile team to a really agile team thanks to Mob programming, some parts of the organization here has gone the exact opposite direction.
 
@@ -58,7 +56,7 @@ What I think is really fascinating is that people working for the Empire thought
 
 Now we know better.
 
-## **MVP**
+## MVP
 
 Another approach that we use in the Rebel team is the concept of MVP. That means that every time a PO (product owner) comes to us with a new task/user story/requirement/whatever you call it/ they will have to argue their case real good to get 100% of their task released out to production.
 
@@ -66,7 +64,7 @@ We often persuade the PO’s that the essence of the task can be released first 
 
 This way of working together with the PO keeps our tasks small and fast.
 
-## **Less Estimates**
+## Less Estimates
 
 We work almost 99% without any planning or time estimates. We work with a continuous stream of work that never ends.
 
@@ -96,7 +94,7 @@ Only on 2 occasions during these last 2 years we had to estimate the old fashion
 
 Both times that has led to an estimate that was more than 6-8 months which is somewhat insane if you think about it.
 
-## **Micro Services**
+## Micro Services
 
 Another technique/practice that we use is to build Micro Services. Mind you we don’t have a “written in stone” kind of law that determines the size of our Micro Services.
 
@@ -104,7 +102,7 @@ Instead we use our collective Mob mindset to create smallish components that do 
 
 We write end-to-end tests for the Micro Services and unit tests for very complex rules (there are few in our domain). With the end-to-end type of approach we can verify that the complete (but small) Micro Service is working as expected. Furthermore for some of the absolute smallest Micro Services we skip the tests completely.
 
-## **Topshelf**
+## Topshelf
 
 The majority of our Micro Services are backend services and they do stuff like this:
 
@@ -116,13 +114,13 @@ To make this deployable and runnable on Windows we’ve taken the approach to cr
 
 Instead we use the TopShelf which makes creating and debugging Windows Services like a walk in the park.
 
-## **RabbitMQ**
+## RabbitMQ
 
 Some of our Micro Services are used by other teams and they like to be notified when changes occur. For this we use RabbitMQ as a mechanism for event based message system.
 
 RabbitMQ is easy to get started with, does the job and it’s free.
 
-## **Nancy**
+## Nancy
 
 Our “frontend” Micro Services mostly do this:
 
@@ -134,21 +132,21 @@ For this we use the lightweight web framework called Nancy. It’s the best in t
 
 We could use used Node.js but then we would have to change our deployment mechanism as well.
 
-## **Octopus Deploy**
+## Octopus Deploy
 
 Speaking of the deployment mechanism, we use Octopus Deploy for all our deployments. And it’s very nice for .Net deployments and has a good API that we call from our builds.
 
 The only drawback is the use of PowerShell within Octopus but that’s whole other rant that I don’t want to get into now.
 
-## **GitHub**
+## GitHub
 
 We use git as our source control and we host all code on GitHub which has been great. Easy to use and good documentation.
 
-## **Jenkins**
+## Jenkins
 
 We use Jenkins as our build server mainly because it’s free. I believe there’s better build servers but Jenkins does the job nicely and has many many plugins.
 
-## **Hubot**
+## Hubot
 
 Lately we have automated some of our daily jobs like:
 
@@ -160,11 +158,11 @@ Lately we have automated some of our daily jobs like:
 
 We do this by typing a specific message in our chat channel (we use Slack). That message is then picked up by our Hubot bot that executes the commands.
 
-## **Slack &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;**
+## Slack
 
 Slack is our preferred communication channel because it’s simple and has many connectors like GitHub and the one for Hubot.
 
-## **Conclusion**
+## Conclusion
 
 There you have it, some of the techniques/technologies that I’ve learned and adapted during the 2 years I’ve been at Fritidsresor. These techniques/technologies are what keeps us fast, lean and small like the Rebels we are.
 
