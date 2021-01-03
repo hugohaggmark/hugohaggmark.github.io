@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Contact
-permalink: /contact/
+title: Experience
+permalink: /experience/
 redirect_to: https://www.hugohaggmark.com/contact/
 ---
