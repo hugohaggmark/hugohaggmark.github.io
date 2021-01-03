@@ -41,25 +41,25 @@ Give the same service account Log on as a Service rights as the picture shows.
 
 After this you have to start a command prompt as Adminstrator and do the following:
 
-- Add the created account to the [TEAMFOUNDATION]\Team Foundation Service Accounts with the following command  
-  tfssecurity /g+ "Team Foundation Service Accounts" n:[YOURDOMAIN]\SpecLogSvc ALLOW /server:http://yourtfsserver:8080/tfs
+- Add the created account to the _**[TEAMFOUNDATION]\Team Foundation Service Accounts**_ with the following command  
+  _**tfssecurity /g+ "Team Foundation Service Accounts" n:[YOURDOMAIN]\SpecLogSvc ALLOW /server:http://yourtfsserver:8080/tfs**_
 - Making it possible for the service account to open TCP port 4242 with the following command  
-  netsh http add urlacl url=[http://+:4242/](http://+:4242/) user=[YOURDOMAIN]\SpecLogSvc
+  _**netsh http add urlacl url=[http://+:4242/](http://+:4242/) user=[YOURDOMAIN]\SpecLogSvc**_
 
 ### Create a shared folder
 
-Create a shared folder that gives [YOURDOMAIN]\SpecLogSvc contribute rights to that folder like so:
+Create a shared folder that gives _**[YOURDOMAIN]\SpecLogSvc**_ contribute rights to that folder like so:
 
 ![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb10.png "image")
 
 ### Follow the instructions given from TechTalk
 
-In your SpecLog folder you will have two folders, one called **Server** and one called **TFSIntegration. I** n these folders there’re txt-files that will guide you through the next manual steps you need to get started. Start with server instructions first.
+In your SpecLog folder you will have two folders, one called **Server** and one called **TFSIntegration**. In these folders there’re txt-files that will guide you through the next manual steps you need to get started. Start with server instructions first.
 
 ### Gotchas
 
-- The default log path is under %LOCALAPPDATA%\SpecLog so I changed it to the same shared folder created earlier.
-- When you create the windows services you’ll be prompted with username and password. It’s very important to enter the username in the format [**YOURDOMAIN**]\[**ServiceAccount**]. Otherwise you’ll get an error.
+- The default log path is under _**%LOCALAPPDATA%\SpecLog**_ so I changed it to the same shared folder created earlier.
+- When you create the windows services you’ll be prompted with username and password. It’s very important to enter the username in the format _**[YOURDOMAIN]\[ServiceAccount]**_. Otherwise you’ll get an error.
 
 ![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb11.png "image")
 

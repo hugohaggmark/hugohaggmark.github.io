@@ -2,7 +2,6 @@
 layout: post
 title: How to configure an automated test run with TFS 2010 and Test Manager
 date: 2011-01-27 22:14:00.000000000 +01:00
-
 tags:
   - Associated Automation
   - Step by Step
@@ -13,8 +12,6 @@ permalink: "/2011/01/27/how-to-configure-an-automated-test-run-with-tfs-2010-and
 ---
 
 Some of you may have read my earlier post on the associated automation in [TFS](http://msdn.microsoft.com/en-us/vstudio/ff637362 "TFS") and [Test Manager](http://msdn.microsoft.com/en-us/library/ms182409.aspx "Test Manager") [here]({{ site.baseurl }}{% link _posts/2011-01-08-how-come-the-add-button-in-associated-automation-isnt-visible-in-microsoft-test-manager.md %} "how-come-the-add-button-in-associated-automation-isnt-visible-in-microsoft-test-manager"). I got some comments that made me realize that more people could benefit from a complete step by step guide on this subject. As such this post will be very long but with a lot of pictures so I hope you stick with me.
-
-###
 
 ### Environment
 

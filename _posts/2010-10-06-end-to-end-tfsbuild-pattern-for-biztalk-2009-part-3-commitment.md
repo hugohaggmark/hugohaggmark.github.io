@@ -2,10 +2,6 @@
 layout: post
 title: End to end TFSBuild pattern for BizTalk 2009, part 3 (Commitment)
 date: 2010-10-06 19:26:02.000000000 +02:00
-categories:
-  - BizTalk
-  - Recommended Practices
-  - Team Foundation Server
 tags:
   - BizTalk
   - Recommended Practices

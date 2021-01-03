@@ -22,15 +22,11 @@ If we take a look at the Dashboard for the MSF Agile process template you’ll s
 
 ![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb.png "image")
 
-###
-
 ### Speed
 
 You have detailed information of your projects current speed much like the speedometer in your car like so:
 
 ![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb1.png "image")
-
-###
 
 ### Work Item overview
 

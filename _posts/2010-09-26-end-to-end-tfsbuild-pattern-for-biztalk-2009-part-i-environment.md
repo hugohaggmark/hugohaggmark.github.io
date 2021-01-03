@@ -2,7 +2,6 @@
 layout: post
 title: End to end TFSBuild pattern for BizTalk 2009, part 1 (Environment)
 date: 2010-09-26 08:37:58.000000000 +02:00
-
 tags:
   - BizTalk
   - Development Environment
@@ -22,9 +21,9 @@ Firstly you'll have to setup some sort of build server and there's at least 3 wa
 - Have the build server installed on the "build BizTalk server"
 - ???
 
-I typically skip the first option because it usually end up in me having to write some kind of remote execution scripts ([PSExec](http://technet.microsoft.com/en-us/sysinternals/bb897553.aspx "PSExec")) or starting the scripts with timer jobs. Either way the overall build pattern turns out more complex than it needs to be or managing the build (yes you will be managing your builds) will be harder.
+I typically skip the first option because it usually end up in me having to write some kind of remote execution scripts ([PSExec](http://technet.microsoft.com/en-us/sysinternals/bb897553.aspx)) or starting the scripts with timer jobs. Either way the overall build pattern turns out more complex than it needs to be or managing the build (yes you will be managing your builds) will be harder.
 
-The second option would be the top choice for me if the customer has [TFS 2010](http://msdn.microsoft.com/en-us/vstudio/ff637362.aspx "TFS 2010") and [Lab Management](http://msdn.microsoft.com/en-us/vstudio/ee712698.aspx "Lab Management") in place. I know there are virtualization options for [TFS 2008](http://msdn.microsoft.com/en-us/vstudio/ff637362.aspx "TFS 2008") but I've never user them myself.
+The second option would be the top choice for me if the customer has [TFS 2010](http://msdn.microsoft.com/en-us/vstudio/ff637362.aspx) and [Lab Management](http://msdn.microsoft.com/en-us/vstudio/ee712698.aspx) in place. I know there are virtualization options for [TFS 2008](http://msdn.microsoft.com/en-us/vstudio/ff637362.aspx) but I've never user them myself.
 
 So this leaves my with the option to have the "build BizTalk server" and the build server on the same box which makes it a lot easier.
 

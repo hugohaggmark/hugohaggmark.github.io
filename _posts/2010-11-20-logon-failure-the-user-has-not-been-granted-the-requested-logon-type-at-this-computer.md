@@ -3,7 +3,6 @@ layout: post
 title: "Logon failure: the user has not been granted the requested logon type at this
   computer"
 date: 2010-11-20 11:12:00.000000000 +01:00
-
 tags:
   - Error
   - Resolution
@@ -15,7 +14,7 @@ I’m currently on an engagement where I’m responsible for the design, archite
 
 As a first step we’re pair installing (me coaching and another guy doing the work) and configuring a TFS 2010 POC to make sure we identify all the potential challenges with the customers specific environment like AD, Policies etc.
 
-Very well we make sure that we follow the exact installation instructions [here](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=2d531219-2c39-4c69-88ef-f5ae6ac18c9f "Team Foundation Installation Guide for Visual Studio 2010") and start our work installing SQL Server, SharePoint Foundation, TFS and lastly we configure TFS with the great new administration console. Everything looks great and no problems so far!
+Very well we make sure that we follow the exact installation instructions [from "Team Foundation Installation Guide for Visual Studio 2010"](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=2d531219-2c39-4c69-88ef-f5ae6ac18c9f) and start our work installing SQL Server, SharePoint Foundation, TFS and lastly we configure TFS with the great new administration console. Everything looks great and no problems so far!
 
 As a rule of thumb I always create a team project for each of the process templates that come with TFS to make sure that everything is truly working (so should you). Anyway the team project creation went perfect!
 
