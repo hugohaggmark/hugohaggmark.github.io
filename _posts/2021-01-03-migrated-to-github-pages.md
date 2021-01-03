@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Migrating to GitHub Pages
+title: Migrated to GitHub Pages
 date: 2021-01-03 11:22:45.000000000 +02:00
 tags:
   - Personal
