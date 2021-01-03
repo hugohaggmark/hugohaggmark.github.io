@@ -13,7 +13,7 @@ Anyway I stumbled upon a great set of [You Tube](http://www.youtube.com/ "YouTub
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/sal_khan_let_s_use_video_to_reinvent_education" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
-![]({{ site.baseurl }}/assets/images/2011/03/logo-no-highlight.png?1265.348861326551423100)
+![]({{ site.baseurl }}/assets/images/2011/03/logo-no-highlight.png)
 
 During my time away from Khan Academy it has grown into a real cool and modern educational form that I really encourage everyone to look into. It drives knowledge to a complete new level and motivates students in their own pace. Even more it creates all new natural ways to coach others.
 
