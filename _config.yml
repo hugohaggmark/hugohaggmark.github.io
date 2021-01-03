@@ -22,7 +22,7 @@ title: Hugo Häggmark
 author: Hugo Häggmark
 description: >- # this means to ignore newlines until "baseurl:"
   Sagas from the software trenches in the continuing battle between quality, price and time…
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hugohaggmark.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: hugohaggmark
 google_analytics: UA-18780240-3
