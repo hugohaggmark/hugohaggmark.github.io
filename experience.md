@@ -2,5 +2,5 @@
 layout: post
 title: Experience
 permalink: /experience/
-redirect_to: https://hugohaggmark.com/contact/
+redirect_to: https://www.hugohaggmark.com/contact/
 ---
