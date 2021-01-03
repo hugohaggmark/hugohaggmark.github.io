@@ -8,7 +8,7 @@ tags:
 permalink: "/2011/02/17/tfs-2010-better-with-sharepoint/"
 ---
 
-Lately I’ve got some questions concerning [TFS](http://msdn.microsoft.com/en-us/vstudio/ff637362 "TFS") 2010 with or without [SharePoint](http://sharepoint.microsoft.com/en-us/Pages/default.aspx "SharePoint") and this blog post does a fair attempt to answers some of those questions. If you don’t have any hesitations and like to use SharePoint you should read this [post]({{ site.baseurl }}{% link _posts/2010-11-08-differences-between-tfs-2010-on-sharepoint-foundation-and-sharepoint-server.md %} "differences-between-tfs-2010-on-sharepoint-foundation-and-sharepoint-server") to figure out which version of SharePoint you should use.
+Lately I’ve got some questions concerning [TFS](http://msdn.microsoft.com/en-us/vstudio/ff637362) 2010 with or without [SharePoint](http://sharepoint.microsoft.com/en-us/Pages/default.aspx) and this blog post does a fair attempt to answers some of those questions. If you don’t have any hesitations and like to use SharePoint you should read this [post]({{ site.baseurl }}{% link _posts/2010-11-08-differences-between-tfs-2010-on-sharepoint-foundation-and-sharepoint-server.md %} "differences-between-tfs-2010-on-sharepoint-foundation-and-sharepoint-server") to figure out which version of SharePoint you should use.
 
 ## Background
 
@@ -20,19 +20,19 @@ You wouldn’t buy a car without a dashboard or would you?
 
 If we take a look at the Dashboard for the MSF Agile process template you’ll should see something like so:
 
-![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb.png)
 
 ### Speed
 
 You have detailed information of your projects current speed much like the speedometer in your car like so:
 
-![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb1.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb1.png)
 
 ### Work Item overview
 
 You get an overview of the contents of your project like so:
 
-![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb2.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb2.png)
 
 You could compare this to your gas gauge in your car or any other information gauges that tell you detailed information about the car.
 
@@ -40,23 +40,23 @@ You could compare this to your gas gauge in your car or any other information ga
 
 Visualize the state of your build for all projectmembers and answers questions like why are builds breaking by drilling down to the individual builds directly from SharePoint.
 
-![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb3.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb3.png)
 
 ### Checkins
 
 You also get an overview of the latest checkins and you drill into the details directly from SharePoint.
 
-![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb4.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb4.png)
 
 ### Work with your Work Items
 
 You can even get down and work with your Work Items directly from SharePoint in various ways:
 
-![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb5.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb5.png)
 
 Interested in a specific Work Item? Use this shortcut:
 
-![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb6.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb6.png)
 
 ## Document Management
 

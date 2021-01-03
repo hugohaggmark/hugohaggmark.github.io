@@ -32,7 +32,7 @@ Why is that you might ask? Well it’s really quite simple, when you’re not bo
 
 What is Avega Coach? What do we do? Well the short answer to that question is: It depends!
 
-We're currently 4 Avega Coaches working at Avega Group: [Joakim Sundén](http://www.joakimsunden.com/), [Marcus Hammarberg](http://www.marcusoft.net), [Damra Muminovic](http://www.damramuminovic.com/) and myself and we all do a lot of different things. Our time at Avega Group is divided into 50% coaching/mentoring assignments at customers and 50% other stuff. For me the other 50% have been mostly about holding training sessions and coaching colleagues but as you can see from my example schema below I do other things as well:![image]({{ site.baseurl }}/assets/images/2011/04/image_thumb3.png "image")
+We're currently 4 Avega Coaches working at Avega Group: [Joakim Sundén](http://www.joakimsunden.com/), [Marcus Hammarberg](http://www.marcusoft.net), [Damra Muminovic](http://www.damramuminovic.com/) and myself and we all do a lot of different things. Our time at Avega Group is divided into 50% coaching/mentoring assignments at customers and 50% other stuff. For me the other 50% have been mostly about holding training sessions and coaching colleagues but as you can see from my example schema below I do other things as well:![image]({{ site.baseurl }}/assets/images/2011/04/image_thumb3.png)
 
 ### Wrapping up my first 6 months at Avega Group
 

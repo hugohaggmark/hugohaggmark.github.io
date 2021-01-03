@@ -14,7 +14,7 @@ permalink: "/2012/01/04/how-do-i-do-moles/"
 I’ve just recently started my first Open Source project (there I said it now I definitely have to deliver it). I can go so far to say that it has something to do with [TFS](http://msdn.microsoft.com/en-us/vstudio/ff637362) 2010 and a [Visual Studio](http://www.microsoft.com/visualstudio/en-us) package. I got you curious now right! Anyway there are some challenges to be solved when integrating your own code with existing APIs like the TFS Client API, it’s hard to unit test right? Well some would argue that you shouldn’t care to test your interaction with other APIs but for me that’s not an option. So I’ve chosen 2 basic strategies:
 
 1. Wrap the TFS Client API with my own classes and Interfaces.
-2. Test my own classes with the help from ["Pex and Moles - Isolation and White box Unit Testing for .NET"](http://research.microsoft.com/en-us/projects/pex/). Moles is a Mocking framework from [Microsoft](http://www.microsoft.com/en-us/default.aspx "Microsoft") Research.
+2. Test my own classes with the help from ["Pex and Moles - Isolation and White box Unit Testing for .NET"](http://research.microsoft.com/en-us/projects/pex/). Moles is a Mocking framework from [Microsoft](http://www.microsoft.com/en-us/default.aspx) Research.
 
 I’ve written about my experiences with Moles in ["How I used Moles in a real life BizTalk scenario"]({{ site.baseurl }}{% link _posts/2011-09-12-how-i-used-moles-in-a-real-life-biztalk-scenario.md %}) and you should really read that post if you’ve never used Moles before and want to continue reading this post.
 

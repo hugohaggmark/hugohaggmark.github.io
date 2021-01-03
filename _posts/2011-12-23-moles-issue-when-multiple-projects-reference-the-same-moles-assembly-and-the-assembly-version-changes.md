@@ -13,10 +13,10 @@ permalink: "/2011/12/23/moles-issue-when-multiple-projects-reference-the-same-mo
 
 ## Background
 
-The other day I had one of the teams at my current customer report a strange build error in [TFS](http://msdn.microsoft.com/en-us/vstudio/ff637362 "TFS") build. They could tell that it had something to do with ["Pex and Moles - Isolation and White box Unit Testing for .NET"](http://research.microsoft.com/en-us/projects/pex/) but they couldn’t solve it.
+The other day I had one of the teams at my current customer report a strange build error in [TFS](http://msdn.microsoft.com/en-us/vstudio/ff637362) build. They could tell that it had something to do with ["Pex and Moles - Isolation and White box Unit Testing for .NET"](http://research.microsoft.com/en-us/projects/pex/) but they couldn’t solve it.
 
 The solution they were trying to build was pretty simple and consisted of on Class Library project and two Test projects, one for unit testing and the second for integration testing. It looked something like the picture below:  
-![image]({{ site.baseurl }}/assets/images/2011/12/image_thumb.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/12/image_thumb.png)
 
 ## Challenge
 
@@ -42,11 +42,11 @@ To solve this I’ve come up with these solutions:
 ```
 
 If you change the property Specific Version on the Moles reference to _**False**_ then that will solve this issue as well.  
-![image]({{ site.baseurl }}/assets/images/2011/12/image_thumb1.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/12/image_thumb1.png)
 
-I wish that the command _**Upgrade .Moles files..**_ on the solution level would automatically update the project references with the new versions of the Mole References. But I believe I have to file that request to [Microsoft](http://www.microsoft.com/en-us/default.aspx "Microsoft").
+I wish that the command _**Upgrade .Moles files..**_ on the solution level would automatically update the project references with the new versions of the Mole References. But I believe I have to file that request to [Microsoft](http://www.microsoft.com/en-us/default.aspx).
 
-![image]({{ site.baseurl }}/assets/images/2011/12/image_thumb2.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/12/image_thumb2.png)
 
 Enjoy,
 

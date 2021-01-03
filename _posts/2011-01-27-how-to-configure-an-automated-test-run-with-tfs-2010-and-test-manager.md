@@ -11,7 +11,7 @@ tags:
 permalink: "/2011/01/27/how-to-configure-an-automated-test-run-with-tfs-2010-and-test-manager/"
 ---
 
-Some of you may have read my earlier post on the associated automation in [TFS](http://msdn.microsoft.com/en-us/vstudio/ff637362 "TFS") and [Test Manager](http://msdn.microsoft.com/en-us/library/ms182409.aspx "Test Manager") [here]({{ site.baseurl }}{% link _posts/2011-01-08-how-come-the-add-button-in-associated-automation-isnt-visible-in-microsoft-test-manager.md %} "how-come-the-add-button-in-associated-automation-isnt-visible-in-microsoft-test-manager"). I got some comments that made me realize that more people could benefit from a complete step by step guide on this subject. As such this post will be very long but with a lot of pictures so I hope you stick with me.
+Some of you may have read my earlier post on the associated automation in [TFS](http://msdn.microsoft.com/en-us/vstudio/ff637362) and [Test Manager](http://msdn.microsoft.com/en-us/library/ms182409.aspx "Test Manager") [here]({{ site.baseurl }}{% link _posts/2011-01-08-how-come-the-add-button-in-associated-automation-isnt-visible-in-microsoft-test-manager.md %} "how-come-the-add-button-in-associated-automation-isnt-visible-in-microsoft-test-manager"). I got some comments that made me realize that more people could benefit from a complete step by step guide on this subject. As such this post will be very long but with a lot of pictures so I hope you stick with me.
 
 ### Environment
 
@@ -77,7 +77,7 @@ Click the “New” button to create the automated test settings:
 
 Give the test settings a name, description and make sure that you choose automated in the selection section. Click the “Next” button when you’re finished.
 
-![image]({{ site.baseurl }}/assets/images/2011/01/image_thumb14.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/01/image_thumb14.png)
 
 On the Roles page make sure you click the role you choose earlier when you created your environment, for me that would be the “Server” role, otherwise you will not be able to click the “Next” button. ![Automated Test Run - Roles]({{ site.baseurl }}/assets/images/2011/01/image_thumb15.png "Automated Test Run - Roles")
 
@@ -91,7 +91,7 @@ On the “Data and Diagnostics” page configure anything you need and click the
 
 On the “Advanced” page you can configure even more advanced configurations, in my case I just clicked the “Next” button until the Summary page appeared.
 
-![image]({{ site.baseurl }}/assets/images/2011/01/image_thumb17.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/01/image_thumb17.png)
 
 So click the “Finish” button and lets go on with this adventure. Your result should be another entry in your Test Settings list:
 
@@ -105,7 +105,7 @@ Lets go back to the Testing Center by clicking the dropdown like so:
 
 Make sure you’re on the “Plan” tab and click the “Properties” link marked in red below. Here I’m assuming that you already have created a new suite, if you haven’t you should read this [post]({{ site.baseurl }}{% link _posts/2011-01-08-how-come-the-add-button-in-associated-automation-isnt-visible-in-microsoft-test-manager.md %} "how-come-the-add-button-in-associated-automation-isnt-visible-in-microsoft-test-manager").
 
-![Properties]({{ site.baseurl }}/assets/images/2011/01/image_thumb20.png "Properties")
+![Properties]({{ site.baseurl }}/assets/images/2011/01/image_thumb20.png)
 
 On the somewhat huge properties page (you can easily get overwhelmed with all that information but I’ll lead the way) you should make sure that you choose your test settings in the Automated runs section, in my case I chose “Automated Test Run” created earlier.
 
@@ -117,7 +117,7 @@ Next you choose your Test environment, in my case I chose “Automated Test Envi
 
 Next you’ll have to assign a build for the automated tests. Assuming that you already created a build in this step otherwise you’ll need to create one. The section you’re looking for should look like so:
 
-![Builds]({{ site.baseurl }}/assets/images/2011/01/image_thumb23.png "Builds")
+![Builds]({{ site.baseurl }}/assets/images/2011/01/image_thumb23.png)
 
 That’s it now click the Save and Close button and lets test this baby…
 

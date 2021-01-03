@@ -15,15 +15,15 @@ There is something worth mentioning with the attached Install-WindowsImage.ps1 t
 
 Let’s take a closer look at Install-WindowsImage.ps1:
 
-![image]({{ site.baseurl }}/assets/images/2011/04/image_thumb.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/04/image_thumb.png)
 
 As you can see someone has already been kind enough to provide us with an easy way to list the available images. So if I go ahead and run the example on my own system I get the following:
 
-![image]({{ site.baseurl }}/assets/images/2011/04/image_thumb1.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/04/image_thumb1.png)
 
 So imagine if I wanted the DataCenter Edition (Full Installation) instead of Standard (Full Installation) I’d have to change the Index in the provided CreateBootableVHD_v2.bat file:
 
-![image]({{ site.baseurl }}/assets/images/2011/04/image_thumb2.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/04/image_thumb2.png)
 
 Hope that clear any issues with Indexes you might have.
 

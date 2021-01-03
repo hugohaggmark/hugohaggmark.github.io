@@ -27,4 +27,4 @@ I found this interview to be fascinating, very professional, refreshing and I’
 
 /Hugo
 
-![IMG_1789]({{ site.baseurl }}/assets/images/2013/12/IMG_1789_thumb.jpg "IMG_1789")
+![IMG_1789]({{ site.baseurl }}/assets/images/2013/12/IMG_1789_thumb.jpg)

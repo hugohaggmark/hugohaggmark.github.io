@@ -19,7 +19,7 @@ If you have been following [my posts "How Do I Do Moles?"]({{ site.baseurl }}{% 
 
 The first thing I actually did was to ask the following question on Twitter because I was curious to see if Moles and Fakes were similar:
 
-![]({{ site.baseurl }}/assets/images/2012/03/Twitter1.png "Twitter1")
+![]({{ site.baseurl }}/assets/images/2012/03/Twitter1.png)
 
 Ok so Fakes in VS 11 are derived from Moles. My next question to Peter was one I've been thinking about alot lately:
 

@@ -12,7 +12,7 @@ permalink: "/2011/09/22/my-first-impressions-of-the-azure-hosted-tfs-11/"
 
 Have you downloaded and created your own Windows 8 image yet? If not you should really do that, trust me you will love it especially if have a touch enabled laptop. You can easily do this in about 30-60 minutes if you follow my post [here]({{ site.baseurl }}{% link _posts/2011-09-17-the-easiest-way-to-install-and-booting-windows-8-developer-preview-off-a-vhd-virtual-hard-disk.md %}).
 
-So last week was the big launch week during the [Build](http://www.buildwindows.com/ "Build") event and Brian Harry announced a lot of great previews such as the Azure hosted TFS 11. You can read more about it in Brian’s post [Team Foundation Server on Windows Azure: A Preview is available!](http://blogs.msdn.com/b/bharry/archive/2011/09/14/team-foundation-server-on-windows-azure.aspx).
+So last week was the big launch week during the [Build](http://www.buildwindows.com/) event and Brian Harry announced a lot of great previews such as the Azure hosted TFS 11. You can read more about it in Brian’s post [Team Foundation Server on Windows Azure: A Preview is available!](http://blogs.msdn.com/b/bharry/archive/2011/09/14/team-foundation-server-on-windows-azure.aspx).
 
 As I’m a frequent reader of Brian’s blog I received the post immediately in my RSS reader and luckily for me I was quick enough create my own hosted instance of TFS 11 in Azure using Brian’s activation code.
 
@@ -24,11 +24,11 @@ The very first thing that stroke me was the sense of familiarity in the GUI and 
 
 #### The Team Project overview with a nice Metro look and feel:
 
-![tfs6]({{ site.baseurl }}/assets/images/2011/09/tfs6_thumb.png "tfs6")
+![tfs6]({{ site.baseurl }}/assets/images/2011/09/tfs6_thumb.png)
 
 #### A work item overview with a nice Metro look and feel:
 
-![tfs7]({{ site.baseurl }}/assets/images/2011/09/tfs7_thumb.png "tfs7")
+![tfs7]({{ site.baseurl }}/assets/images/2011/09/tfs7_thumb.png)
 
 ### The Team concept makes an entrance
 
@@ -36,15 +36,15 @@ There is this long sought concept of a team in TFS 11 that I just started to pla
 
 #### Create a team dialog:
 
-![tfs10]({{ site.baseurl }}/assets/images/2011/09/tfs10_thumb.png "tfs10")
+![tfs10]({{ site.baseurl }}/assets/images/2011/09/tfs10_thumb.png)
 
 #### Assignment of areas to a specific team:
 
-![tfs11]({{ site.baseurl }}/assets/images/2011/09/tfs11_thumb.png "tfs11")
+![tfs11]({{ site.baseurl }}/assets/images/2011/09/tfs11_thumb.png)
 
 #### Assignment of iterations to a specific team:
 
-![tfs12]({{ site.baseurl }}/assets/images/2011/09/tfs12_thumb.png "tfs12")
+![tfs12]({{ site.baseurl }}/assets/images/2011/09/tfs12_thumb.png)
 
 ### Iterations with dates enters
 
@@ -56,7 +56,7 @@ Then I found this Current Sprint folder in the Shared Queries section of Work It
 
 ####
 
-![image]({{ site.baseurl }}/assets/images/2011/09/image_thumb24.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/09/image_thumb24.png)
 
 ### Search Work Items in Visual Studio makes an entrance
 
@@ -64,13 +64,13 @@ If you read my last post about finding stuff in TFS [How do I find stuff in TFS 
 
 #### Entering a Work Item ID in the search field will get you that Work Item:
 
-![image]({{ site.baseurl }}/assets/images/2011/09/image_thumb25.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/09/image_thumb25.png)
 
 Another great feature is that you can turn your searches directly to a Query with the Open as Query option as shown below.
 
 #### Open as Query enables you to store your searches as queries:
 
-![image]({{ site.baseurl }}/assets/images/2011/09/image_thumb26.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/09/image_thumb26.png)
 
 This is how far my explorations have taken me so far and will create more posts as I go along discovering more features.
 

@@ -10,6 +10,6 @@ Hugo's skills and passion for developing software has really matured since the 
 
 He spends most days mentoring and coaching developers and teams of developers on how to become better developers so that they can deliver higher business value to people and organizations throughout the world. This is certainly a quest to be undertaken with serious humbleness.
 
-On his spare time he enjoys  family life with his wife Katrin, two sons William , Maximilian and their daughter [Paula]({{ site.baseurl }}{% link _posts/2015-05-19-say-hi-to-paula.md %}). They live in a house in [Vallentuna](http://en.wikipedia.org/wiki/Vallentuna "Vallentuna") just outside of Stockholm in Sweden. Hugo loves to cook, laugh, watch movies, paint, play Xbox, go [Geocaching](https://www.geocaching.com/), go snorkeling in the summer time and snowboarding during the winter.
+On his spare time he enjoys  family life with his wife Katrin, two sons William , Maximilian and their daughter [Paula]({{ site.baseurl }}{% link _posts/2015-05-19-say-hi-to-paula.md %}). They live in a house in [Vallentuna](http://en.wikipedia.org/wiki/Vallentuna) just outside of Stockholm in Sweden. Hugo loves to cook, laugh, watch movies, paint, play Xbox, go [Geocaching](https://www.geocaching.com/), go snorkeling in the summer time and snowboarding during the winter.
 
 Hugo hopes you will enjoy his sagas from the software trenches in the continuing battle between quality, price and time…

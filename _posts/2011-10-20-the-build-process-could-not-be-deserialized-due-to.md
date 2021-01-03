@@ -18,25 +18,25 @@ Following [Microsoft](http://www.microsoft.com/en-us/default.aspx)’s recommend
 
 In the Team Project _**Central**_ the custom activities we’re using a stored at _**$/Central/BuildComponents**_ and our Build Controller points out this location as the picture shows below:
 
-![image]({{ site.baseurl }}/assets/images/2011/10/image_thumb.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/10/image_thumb.png)
 
 In our Custom Activities we have some simple serializble objects that we use as part of our process to store some settings that we need in our build process. An of that would be an XCopyFileWrapper that we use to store 3 string properties:
 
-![image]({{ site.baseurl }}/assets/images/2011/10/image_thumb1.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/10/image_thumb1.png)
 
 We then use this wrapper in our Meta Data property in our DefaultTemplate.xaml file like the picture shown below:
 
-![image]({{ site.baseurl }}/assets/images/2011/10/image_thumb2.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/10/image_thumb2.png)
 
 Then we added the ParamWrapper as an array of XCopyFileWrapper and add it as an argument to DefaultTemplate.xaml like so:
 
-![image]({{ site.baseurl }}/assets/images/2011/10/image_thumb3.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/10/image_thumb3.png)
 
 This way we can have the same DefaultTemplate XCopy files depending on the input we add for each unique build definition in this rather nice centralized GUI for your build definitions:
 
-![image]({{ site.baseurl }}/assets/images/2011/10/image_thumb4.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/10/image_thumb4.png)
 
-![image]({{ site.baseurl }}/assets/images/2011/10/image_thumb5.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/10/image_thumb5.png)
 
 And then in our DefaultTemplate.xaml we have an foreach loop that loops over our array of XCopyFileWrappers and invokes XCopy! This makes our build definitions really sweet, dynamic and expandable right!
 
@@ -44,7 +44,7 @@ And then in our DefaultTemplate.xaml we have an foreach loop that loops over our
 
 So the next Team Project comes along we can call it _**Project B**_ and they want to use our Build Process. So they branch our build process template into their project and they create a new build definition and then KAPOW!
 
-![image]({{ site.baseurl }}/assets/images/2011/10/image_thumb6.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/10/image_thumb6.png)
 
 What happen here! Well my initial thoughts was another lesson I learned previously and blogged about [Stuck on “Cannot create unknown type {clr-namespace:" in TFS Build?]({{ site.baseurl }}{% link _posts/2011-09-08-stuck-on-cannot-create-unknown-type-clr-namespace-in-tfs-build.md %}) but specifying the assembly in the DefaultTepmplate.xaml didn’t solve this issue.
 

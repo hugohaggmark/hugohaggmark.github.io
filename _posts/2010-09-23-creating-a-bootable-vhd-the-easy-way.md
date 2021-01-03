@@ -58,7 +58,7 @@ _ **Ex: .\CreateBootableVHD_v2.bat C:\VHD\W2k8.vhd 40000 FIXED X F:\sources\inst
 
 To show an actual example here is a snapshot from my latest run:
 
-[![image]({{ site.baseurl }}/assets/images/2010/09/image.png "image")]({{ site.baseurl }}/assets/images/2010/10/createbootablevhd.png)
+[![image]({{ site.baseurl }}/assets/images/2010/09/image.png)]({{ site.baseurl }}/assets/images/2010/10/createbootablevhd.png)
 
 After 30-60 minutes depending on the size of the VHD and your hardware you'll have a new boot option.
 

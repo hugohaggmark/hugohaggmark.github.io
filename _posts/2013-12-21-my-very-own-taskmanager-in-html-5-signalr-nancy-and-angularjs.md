@@ -11,7 +11,7 @@ tags:
 permalink: "/2013/12/21/my-very-own-taskmanager-in-html-5-signalr-nancy-and-angularjs/"
 ---
 
-![image]({{ site.baseurl }}/assets/images/2013/12/image_thumb15.png "image")
+![image]({{ site.baseurl }}/assets/images/2013/12/image_thumb15.png)
 
 > This is part 2 of this [blog post]({{ site.baseurl }}{% link _posts/2013-12-19-my-own-taskmanager-in-html-5-signalr-nancy.md %})
 > and I really encourage you to read it before continuing reading this blog post.

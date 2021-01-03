@@ -17,11 +17,11 @@ permalink: "/2011/06/03/i-dont-want-to-write-comments-or-run-code-coverage-on-au
 
 You’ve created a WCF service proxy and you’ve XML documentation turned on like the picture shows below.
 
-![image]({{ site.baseurl }}/assets/images/2011/06/image_thumb.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/06/image_thumb.png)
 
 Then you most likely will have a lot of warnings the next time you build your project like so:
 
-![image]({{ site.baseurl }}/assets/images/2011/06/image_thumb1.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/06/image_thumb1.png)
 
 Don’t despair the solution is close.
 
@@ -35,13 +35,13 @@ Add the following line of code in your namespace:
 #pragma warning disable 1591 //Disables CS1591 Warning
 ```
 
-![image]({{ site.baseurl }}/assets/images/2011/06/image_thumb2.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/06/image_thumb2.png)
 
 ### Auto generated code has lousy Code Coverage
 
 Then you’ll be left with the issue that your auto generated code has lousy Code Coverage, if you haven’t written any tests against it that is. The question if you should write tests on auto generated code or not I leave it up to you. I’ll leave at that with the cowardly answer "it depends" ![Ler]({{ site.baseurl }}/assets/images/2011/06/wlEmoticon-smile.png) The before picture might look like this:
 
-![image]({{ site.baseurl }}/assets/images/2011/06/image_thumb3.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/06/image_thumb3.png)
 
 Notice how the auto generated namespaces are listed in Code Coverage.
 
@@ -55,15 +55,15 @@ This is as easily fixed as the XML Warning. In the file where you have the auto 
 
 attribute to every class.
 
-![image]({{ site.baseurl }}/assets/images/2011/06/image_thumb4.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/06/image_thumb4.png)
 
 Finish things off with a Edit->Advanced->Format Document to get a nice formatting and your good to go!
 
-![image]({{ site.baseurl }}/assets/images/2011/06/image_thumb5.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/06/image_thumb5.png)
 
 Try compiling and watch as your code coverage goes up!
 
-![image]({{ site.baseurl }}/assets/images/2011/06/image_thumb6.png "image")
+![image]({{ site.baseurl }}/assets/images/2011/06/image_thumb6.png)
 
 Cheers,
 
