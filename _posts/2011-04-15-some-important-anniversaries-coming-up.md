@@ -2,9 +2,6 @@
 layout: post
 title: Some important anniversaries coming up
 date: 2011-04-15 10:26:00.000000000 +02:00
-categories:
-  - Avega Group
-  - Personal
 tags:
   - Avega Group
   - Personal
@@ -15,7 +12,7 @@ This post is of the more personal character but so bare with me if you’re a te
 
 ## 6 months at Avega Group as Avega Coach
 
-As of the 20th of April I’ve worked 6 months at [Avega Group](http://www.avegagroup.se/ "Avega Group"), jeez time flies when you’re having fun. As you might know I used to work at [Microsoft](http://www.microsoft.com/en-us/default.aspx "Microsoft") as a Senior Consultant with [ALM](http://en.wikipedia.org/wiki/Application_lifecycle_management "ALM"), [TFS](http://msdn.microsoft.com/en-us/vstudio/ff637362 "TFS") and [SharePoint](http://sharepoint.microsoft.com/en-us/Pages/default.aspx "SharePoint") as stated in this [post](http://www.hugohaggmark.com/2010/10/19/leaving-microsoftentering-avega-group/ "leaving-microsoftentering-avega-group").
+As of the 20th of April I’ve worked 6 months at [Avega Group](http://www.avegagroup.se/), jeez time flies when you’re having fun. As you might know I used to work at [Microsoft](http://www.microsoft.com/en-us/default.aspx) as a Senior Consultant with [ALM](http://en.wikipedia.org/wiki/Application_lifecycle_management), [TFS](http://msdn.microsoft.com/en-us/vstudio/ff637362) and [SharePoint](http://sharepoint.microsoft.com/en-us/Pages/default.aspx) as stated in this [post]({{ site.baseurl }}{% link _posts/2010-10-19-leaving-microsoftentering-avega-group.md %}).
 
 ### Values at Avega Group
 
@@ -35,7 +32,7 @@ Why is that you might ask? Well it’s really quite simple, when you’re not bo
 
 What is Avega Coach? What do we do? Well the short answer to that question is: It depends!
 
-We're currently 4 Avega Coaches working at Avega Group: [Joakim Sundén](http://www.joakimsunden.com/ "Joakim Sundén"), [Marcus Hammarberg](http://www.marcusoft.net "Marcus Hammarberg"), [Damra Muminovic](http://www.damramuminovic.com/ "Damra Muminovic") and myself and we all do a lot of different things. Our time at Avega Group is divided into 50% coaching/mentoring assignments at customers and 50% other stuff. For me the other 50% have been mostly about holding training sessions and coaching colleagues but as you can see from my example schema below I do other things as well:[![image]({{ site.baseurl }}/assets/images/2011/04/image_thumb3.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2011/04/image3.png)
+We're currently 4 Avega Coaches working at Avega Group: [Joakim Sundén](http://www.joakimsunden.com/), [Marcus Hammarberg](http://www.marcusoft.net), [Damra Muminovic](http://www.damramuminovic.com/) and myself and we all do a lot of different things. Our time at Avega Group is divided into 50% coaching/mentoring assignments at customers and 50% other stuff. For me the other 50% have been mostly about holding training sessions and coaching colleagues but as you can see from my example schema below I do other things as well:![image]({{ site.baseurl }}/assets/images/2011/04/image_thumb3.png "image")
 
 ### Wrapping up my first 6 months at Avega Group
 
