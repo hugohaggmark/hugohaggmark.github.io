@@ -2,14 +2,6 @@
 layout: post
 title: Building and Unit Testing .Net 4.0 with Team Build 2008, the correct order
 date: 2011-03-03 10:44:00.000000000 +01:00
-categories:
-  - ".Net 4.0"
-  - Environment
-  - Recommended Practices
-  - Resolution
-  - Team Build
-  - Team Foundation Server
-  - Unit Testing
 tags:
   - ".Net 4.0"
   - Environment
@@ -20,7 +12,7 @@ tags:
 permalink: "/2011/03/03/building-and-unit-testing-net-4-0-with-team-build-2008-the-correct-order/"
 ---
 
-I’ve been helping my customer setting up .Net 4.0 build servers lately as you may have read in my previous [post](http://www.hugohaggmark.com/2010/11/24/building-and-unit-testing-net-4-0-with-team-build-2008/ "building-and-unit-testing-net-4-0-with-team-build-2008"). In the previous post, I listed my challenges getting .Net 4 assemblies to build and unit test with Team Build 2008 so I thought It would be time to share the correct order to get the stuff working!
+I’ve been helping my customer setting up .Net 4.0 build servers lately as you may have read in my previous [post]({{ site.baseurl }}{% link _posts/2010-11-24-building-and-unit-testing-net-4-0-with-team-build-2008.md %} "building-and-unit-testing-net-4-0-with-team-build-2008"). In the previous post, I listed my challenges getting .Net 4 assemblies to build and unit test with Team Build 2008 so I thought It would be time to share the correct order to get the stuff working!
 
 1. Install Visual Studio 2010 Premium
 2. Install Visual Studio Team System 2008 Development Edition

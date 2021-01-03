@@ -3,10 +3,7 @@ layout: post
 title: "Logon failure: the user has not been granted the requested logon type at this
   computer"
 date: 2010-11-20 11:12:00.000000000 +01:00
-categories:
-  - Error
-  - Resolution
-  - Team Foundation Server
+
 tags:
   - Error
   - Resolution
@@ -32,7 +29,7 @@ _Note: all pictures are taken from my own environment and not from customer_
 
 Here we go again I thought for myself…
 
-I won’t bore you with all the details but after some investigation and after consulting my own virtualized TFS farm (on my bootable vhd by the way, read post [here](http://www.hugohaggmark.com/2010/11/15/creating-a-bootable-vhd-the-easy-waycontinued/ "Creating a bootable vhd the easy way")) I found that although we had granted the “reports” account the “ **Allow log on locally** ” as instructed there was a domain policy that **denied** the “reports” account the same rights as you can see in the picture below.
+I won’t bore you with all the details but after some investigation and after consulting my own virtualized TFS farm (on my bootable vhd by the way, read post [here]({{ site.baseurl }}{% link _posts/2010-11-15-creating-a-bootable-vhd-the-easy-waycontinued.md %})) I found that although we had granted the “reports” account the “ **Allow log on locally** ” as instructed there was a domain policy that **denied** the “reports” account the same rights as you can see in the picture below.
 
 [![image]({{ site.baseurl }}/assets/images/2010/11/image_thumb1.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2010/11/image1.png)
 

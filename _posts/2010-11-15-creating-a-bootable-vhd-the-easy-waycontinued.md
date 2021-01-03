@@ -2,10 +2,6 @@
 layout: post
 title: Creating a bootable VHD the easy way…continued
 date: 2010-11-15 21:34:00.000000000 +01:00
-categories:
-  - Development
-  - Environment
-  - SharePoint
 tags:
   - Bootable VHD
   - Development Environment
@@ -13,7 +9,7 @@ tags:
 permalink: "/2010/11/15/creating-a-bootable-vhd-the-easy-waycontinued/"
 ---
 
-You might have read and tried the scripts from my first blog about creating a bootable vhd [here](http://www.hugohaggmark.com/2010/09/23/creating-a-bootable-vhd-the-easy-way/ "Creating a bootable vhd the easy way"), and in this blog post I’ll continue where I left with some information about my usage of difference discs and bootable vhd’s.
+You might have read and tried the scripts from my first blog about creating a bootable vhd [in Creating a bootable vhd the easy way]({{ site.baseurl }}{% link _posts/2010-09-23-creating-a-bootable-vhd-the-easy-way.md %}), and in this blog post I’ll continue where I left with some information about my usage of difference discs and bootable vhd’s.
 
 First of all I started by creating a bootable vhd with my script with the following options:
 

@@ -55,7 +55,7 @@ public class Y2KCheckerTests_Step1
 }
 ```
 
-Well this is all fine, but what if you have a thousand tests that want to detour DateTime.Now? If you read my previous post [here](http://www.hugohaggmark.com/2012/01/04/how-do-i-do-moles/ "How Do I Do Moles?") I introduced a Testable object that encapsulates behaviour.
+Well this is all fine, but what if you have a thousand tests that want to detour DateTime.Now? If you read my previous post [How Do I Do Moles?]({{ site.baseurl }}{% link _posts/2012-01-04-how-do-i-do-moles.md %}) I introduced a Testable object that encapsulates behaviour.
 
 ### Step 2
 

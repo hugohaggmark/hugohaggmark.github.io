@@ -2,25 +2,16 @@
 layout: post
 title: Thoughts on future knowledge continued, new educational forms
 date: 2011-03-10 11:55:00.000000000 +01:00
-categories:
-  - Personal
 tags:
   - Personal
 permalink: "/2011/03/10/thoughts-on-future-knowledge-continued-new-educational-forms/"
 ---
 
-I’ve seen that some of my followers go through the more non-technical posts like my last post on the same subject [here](http://www.hugohaggmark.com/2010/12/30/thoughts-on-future-knowledge/ "thoughts-on-future-knowledge"), go figure there’re non technical geeks out there ![Blinkar]({{ site.baseurl }}/assets/images/2011/03/wlEmoticon-winkingsmile.png).
+I’ve seen that some of my followers go through the more non-technical posts like my last post on the same subject [here]({{ site.baseurl }}{% link _posts/2010-12-30-thoughts-on-future-knowledge.md %} "thoughts-on-future-knowledge"), go figure there’re non technical geeks out there ![Blinkar]({{ site.baseurl }}/assets/images/2011/03/wlEmoticon-winkingsmile.png).
 
 Anyway I stumbled upon a great set of [You Tube](http://www.youtube.com/ "YouTube - Broadcast Yourself") educational videos from the Khan Academy in September 2010 and I have been too busy to check back and take a look the Khan Academy again, until this morning when I saw the following presentation:
 
-<object width="446" height="326"><param name="movie" value="http://video.ted.com/assets/player/swf/EmbedPlayer.swf">
-
-<param name="allowFullScreen" value="true">
-<param name="allowScriptAccess" value="always">
-<param name="wmode" value="transparent">
-<param name="bgColor" value="#ffffff">
-<param name="flashvars" value="vu=http://video.ted.com/talks/dynamic/SalmanKhan_2011-medium.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/TedTalks-1609.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=1090&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=salman_khan_let_s_use_video_to_reinvent_education;year=2011;theme=a_taste_of_ted2011;theme=new_on_ted_com;event=TED2011;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;">
-<embed src="http://video.ted.com/assets/player/swf/EmbedPlayer.swf" pluginspace="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" bgcolor="#ffffff" width="446" height="326" allowfullscreen="true" allowscriptaccess="always" flashvars="vu=http://video.ted.com/talks/dynamic/SalmanKhan_2011-medium.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/TedTalks-1609.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=1090&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=salman_khan_let_s_use_video_to_reinvent_education;year=2011;theme=a_taste_of_ted2011;theme=new_on_ted_com;event=TED2011;"></embed></object>
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/sal_khan_let_s_use_video_to_reinvent_education" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 ![]({{ site.baseurl }}/assets/images/2011/03/logo-no-highlight.png?1265.348861326551423100)
 

@@ -2,12 +2,7 @@
 layout: post
 title: End to end TFSBuild pattern for BizTalk 2009, part 1 (Environment)
 date: 2010-09-26 08:37:58.000000000 +02:00
-categories:
-  - BizTalk
-  - Development
-  - Environment
-  - Team Build
-  - Team Foundation Server
+
 tags:
   - BizTalk
   - Development Environment
@@ -16,7 +11,7 @@ tags:
 permalink: "/2010/09/26/end-to-end-tfsbuild-pattern-for-biztalk-2009-part-i-environment/"
 ---
 
-If you read my earlier blog post about a mysterious error from BTSTask you already know that I'm currently helping a customer with automated TFS 2008 builds for BizTalk 2009, if you haven't read my earlier post here's your [chance](http://www.hugohaggmark.com/2010/09/26/end-to-end-tfsbuild-pattern-for-biztalk-2009-part-i-environment/ "mysterious error from btstask").
+If you read my earlier blog post about a mysterious error from BTSTask you already know that I'm currently helping a customer with automated TFS 2008 builds for BizTalk 2009, if you haven't read my earlier post here's your [chance]({{ site.baseurl }}{% link _posts/2010-09-24-mysterious-error-from-btstask-exe.md %} "mysterious error from btstask").
 
 ### Environment
 

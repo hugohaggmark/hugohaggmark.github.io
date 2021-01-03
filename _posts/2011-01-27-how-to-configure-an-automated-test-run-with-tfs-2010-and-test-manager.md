@@ -2,11 +2,7 @@
 layout: post
 title: How to configure an automated test run with TFS 2010 and Test Manager
 date: 2011-01-27 22:14:00.000000000 +01:00
-categories:
-  - Associated Automation
-  - Team Build
-  - Team Foundation Server
-  - Test Manager
+
 tags:
   - Associated Automation
   - Step by Step
@@ -16,7 +12,7 @@ tags:
 permalink: "/2011/01/27/how-to-configure-an-automated-test-run-with-tfs-2010-and-test-manager/"
 ---
 
-Some of you may have read my earlier post on the associated automation in [TFS](http://msdn.microsoft.com/en-us/vstudio/ff637362 "TFS") and [Test Manager](http://msdn.microsoft.com/en-us/library/ms182409.aspx "Test Manager")&nbsp;[here](http://www.hugohaggmark.com/2011/01/08/how-come-the-add-button-in-associated-automation-isnt-visible-in-microsoft-test-manager/ "how-come-the-add-button-in-associated-automation-isnt-visible-in-microsoft-test-manager"). I got some comments that made me realize that more people could benefit from a complete step by step guide on this subject. As such this post will be very long but with a lot of pictures so I hope you stick with me.
+Some of you may have read my earlier post on the associated automation in [TFS](http://msdn.microsoft.com/en-us/vstudio/ff637362 "TFS") and [Test Manager](http://msdn.microsoft.com/en-us/library/ms182409.aspx "Test Manager")&nbsp;[here]({{ site.baseurl }}{% link _posts/2011-01-08-how-come-the-add-button-in-associated-automation-isnt-visible-in-microsoft-test-manager.md %} "how-come-the-add-button-in-associated-automation-isnt-visible-in-microsoft-test-manager"). I got some comments that made me realize that more people could benefit from a complete step by step guide on this subject. As such this post will be very long but with a lot of pictures so I hope you stick with me.
 
 ###
 
@@ -110,7 +106,7 @@ Lets go back to the Testing Center by clicking the dropdown like so:
 
 [![Switching back to Testing Center]({{ site.baseurl }}/assets/images/2011/01/image_thumb19.png "Switching back to Testing Center")](http://www.hugohaggmark.com/wp-content/uploads/2011/01/image19.png)
 
-Make sure you’re on the “Plan” tab and click the “Properties” link marked in red below. Here I’m assuming that you already have created a new suite, if you haven’t you should read this [post](http://www.hugohaggmark.com/2011/01/08/how-come-the-add-button-in-associated-automation-isnt-visible-in-microsoft-test-manager/ "how-come-the-add-button-in-associated-automation-isnt-visible-in-microsoft-test-manager").
+Make sure you’re on the “Plan” tab and click the “Properties” link marked in red below. Here I’m assuming that you already have created a new suite, if you haven’t you should read this [post]({{ site.baseurl }}{% link _posts/2011-01-08-how-come-the-add-button-in-associated-automation-isnt-visible-in-microsoft-test-manager.md %} "how-come-the-add-button-in-associated-automation-isnt-visible-in-microsoft-test-manager").
 
 [![Properties]({{ site.baseurl }}/assets/images/2011/01/image_thumb20.png "Properties")](http://www.hugohaggmark.com/wp-content/uploads/2011/01/image20.png)
 

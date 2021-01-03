@@ -2,16 +2,13 @@
 layout: post
 title: TFS 2010 better with SharePoint
 date: 2011-02-17 21:55:00.000000000 +01:00
-categories:
-  - SharePoint
-  - Team Foundation Server
 tags:
   - SharePoint
   - Team Foundation Server
 permalink: "/2011/02/17/tfs-2010-better-with-sharepoint/"
 ---
 
-Lately I’ve got some questions concerning [TFS](http://msdn.microsoft.com/en-us/vstudio/ff637362 "TFS") 2010 with or without [SharePoint](http://sharepoint.microsoft.com/en-us/Pages/default.aspx "SharePoint") and this blog post does a fair attempt to answers some of those questions. If you don’t have any hesitations and like to use SharePoint you should read this [post](http://www.hugohaggmark.com/2010/11/08/differences-between-tfs-2010-on-sharepoint-foundation-and-sharepoint-server/ "differences-between-tfs-2010-on-sharepoint-foundation-and-sharepoint-server") to figure out which version of SharePoint you should use.
+Lately I’ve got some questions concerning [TFS](http://msdn.microsoft.com/en-us/vstudio/ff637362 "TFS") 2010 with or without [SharePoint](http://sharepoint.microsoft.com/en-us/Pages/default.aspx "SharePoint") and this blog post does a fair attempt to answers some of those questions. If you don’t have any hesitations and like to use SharePoint you should read this [post]({{ site.baseurl }}{% link _posts/2010-11-08-differences-between-tfs-2010-on-sharepoint-foundation-and-sharepoint-server.md %} "differences-between-tfs-2010-on-sharepoint-foundation-and-sharepoint-server") to figure out which version of SharePoint you should use.
 
 ## Background
 

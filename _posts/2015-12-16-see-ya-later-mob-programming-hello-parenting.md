@@ -36,7 +36,7 @@ When new challenges arise though we have great discussions about how to best sol
 
 By the way I think this might be one of the Achilles heels for Mob programming, after a long while you really need to bring in new people in the mob or your mob will be too tight and unified.
 
-See my previous post [here](http://www.hugohaggmark.com/2015/06/04/mob-programming-in-short/)for more info.
+See my previous post [here]({{ site.baseurl }}{% link _posts/2015-06-04-mob-programming-in-short.md %})for more info.
 
 ## Outsourcing
 

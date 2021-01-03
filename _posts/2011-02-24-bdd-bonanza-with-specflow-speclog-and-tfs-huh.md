@@ -2,11 +2,6 @@
 layout: post
 title: BDD Bonanza with SpecFlow, SpecLog and TFS, huh?
 date: 2011-02-24 16:37:00.000000000 +01:00
-categories:
-  - BDD
-  - SpecFlow
-  - SpecLog
-  - Team Foundation Server
 tags:
   - BDD
   - SpecFlow
@@ -21,7 +16,7 @@ I must admit that title is somewhat provoking and that will certainly get some p
 
 ## Background
 
-I’ve been using [SpecFlow](http://specflow.org/ "SpecFlow") a couple of months and I really like the feeling I get every time a debug my specifications ![Ler]({{ site.baseurl }}/assets/images/2011/02/wlEmoticon-smile.png). A colleague of mine [Marcus Hammarberg](http://www.marcusoft.net "Marcus Hammarberg") has written lot’s of posts like [this](http://www.marcusoft.net/2011/02/specification-by-example-with.html "http://www.marcusoft.net/2011/02/specification-by-example-with.html") and at some point we even did a joint venture that resulting in this [post](http://www.marcusoft.net/2011/01/specification-by-example-with-specflow.html "http://www.marcusoft.net/2011/01/specification-by-example-with-specflow.html") by Marcus and this one by [me](http://www.hugohaggmark.com/2011/01/08/how-come-the-add-button-in-associated-automation-isnt-visible-in-microsoft-test-manager/ "http://www.hugohaggmark.com/2011/01/08/how-come-the-add-button-in-associated-automation-isnt-visible-in-microsoft-test-manager/").
+I’ve been using [SpecFlow](http://specflow.org/ "SpecFlow") a couple of months and I really like the feeling I get every time a debug my specifications ![Ler]({{ site.baseurl }}/assets/images/2011/02/wlEmoticon-smile.png). A colleague of mine [Marcus Hammarberg](http://www.marcusoft.net "Marcus Hammarberg") has written lot’s of posts like [this](http://www.marcusoft.net/2011/02/specification-by-example-with.html "http://www.marcusoft.net/2011/02/specification-by-example-with.html") and at some point we even did a joint venture that resulting in this [post](http://www.marcusoft.net/2011/01/specification-by-example-with-specflow.html "http://www.marcusoft.net/2011/01/specification-by-example-with-specflow.html") by Marcus and this one by [me]({{ site.baseurl }}{% link _posts/2011-01-08-how-come-the-add-button-in-associated-automation-isnt-visible-in-microsoft-test-manager.md %} "{{ site.baseurl }}{% link _posts/2011-01-08-how-come-the-add-button-in-associated-automation-isnt-visible-in-microsoft-test-manager.md %}").
 
 So we had quite a good story for developers at that point and really no nice way to present specification files to testers or business analysts. Well the same team that brought you SpecFlow has also made [SpecLog](http://www.speclog.net/ "SpecLog") a tool that looks very promising.
 
