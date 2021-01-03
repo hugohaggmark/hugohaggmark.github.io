@@ -15,7 +15,7 @@ permalink: "/2017/03/24/new-reactredux-version-of-fluxo-released/"
 
 I've been working since January on my way to and from work moving the old Fluxo version ([https://fluxo.herokuapp.com](https://fluxo.herokuapp.com)) to the React/Redux stack and today I'm very proud to announce that the new Fluxo version is deployed at [https://fluxo.hugohaggmark.com](https://fluxo.hugohaggmark.com).
 
-I'll continue to make small improvments and I've some major features that I would like to add&nbsp;like:
+I'll continue to make small improvments and I've some major features that I would like to add like:
 
 - Cumulative Flow graph
 - Apple and Android App

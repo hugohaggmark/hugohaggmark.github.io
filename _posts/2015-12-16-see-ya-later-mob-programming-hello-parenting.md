@@ -26,7 +26,7 @@ Surely I'll never finish or even start these tasks/goals but here goes anyways:
 
 There you go, I'm all setup for my parental leave but as a last thing a thought I'd blog about all the stuff I've learned during my last almost 2 years at TUI Nordic aka Fritidsresor.
 
-If you're not interested in reading about keeping yourself lean, Agile and fast stop reading now. For the rest of you I hope you enjoy.&nbsp;
+If you're not interested in reading about keeping yourself lean, Agile and fast stop reading now. For the rest of you I hope you enjoy.
 
 ## Mob programming
 

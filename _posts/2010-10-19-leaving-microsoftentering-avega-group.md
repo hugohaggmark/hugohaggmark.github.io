@@ -11,7 +11,7 @@ permalink: "/2010/10/19/leaving-microsoftentering-avega-group/"
 
 Today is my last day as a Senior Consultant at Microsoft Consulting Services and tomorrow is my first day as an **[Avega Coach](http://www.avegagroup.se/ "Avega Coach")** at **[Avega Group](http://www.avegagroup.se/ "Avega Group")**.
 
-My time as an [**Avega Coach**](http://www.avegagroup.se/ "Avega Coach") is divided between my regular (often coaching) assignments with customers and [**Avega Group**](http://www.avegagroup.se/ "Avega Group") **&nbsp;** and [**Elevate**](http://www.avegagroup.se/sv/Elevate/Las-mer-om-Elevate/ "Elevate").
+My time as an [**Avega Coach**](http://www.avegagroup.se/ "Avega Coach") is divided between my regular (often coaching) assignments with customers and [**Avega Group**](http://www.avegagroup.se/ "Avega Group") \*\* ** and [**Elevate\*\*](http://www.avegagroup.se/sv/Elevate/Las-mer-om-Elevate/ "Elevate").
 
 As usual my passion is mentoring other developers and teams of developers to become better software craftsmen so that they can deliver higher business value to people and organizations throughout the world.
 

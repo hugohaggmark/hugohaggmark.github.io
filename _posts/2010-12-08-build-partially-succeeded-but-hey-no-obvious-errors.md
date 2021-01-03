@@ -34,7 +34,7 @@ Ok, I can see that I have some sort of **Test Run Error** so my first instinct w
 
 [![2010-12-04 10-38-28]({{ site.baseurl }}/assets/images/2010/12/2010-12-04-10-38-28_thumb.png "2010-12-04 10-38-28")](http://www.hugohaggmark.com/wp-content/uploads/2010/12/2010-12-04-10-38-28.png)
 
-Unfortunately the Diagnostic level didn’t help me much with the problem at hand and it took me a while before I found that my “Test Results” window was minimized and in that window was the solution to my whole mystery. As you can see when I opened&nbsp; the “Test Results” window there is a warning and a link to the problem.
+Unfortunately the Diagnostic level didn’t help me much with the problem at hand and it took me a while before I found that my “Test Results” window was minimized and in that window was the solution to my whole mystery. As you can see when I opened the “Test Results” window there is a warning and a link to the problem.
 
 [![2010-12-04 10-41-48]({{ site.baseurl }}/assets/images/2010/12/2010-12-04-10-41-48_thumb.png "2010-12-04 10-41-48")](http://www.hugohaggmark.com/wp-content/uploads/2010/12/2010-12-04-10-41-48.png)
 

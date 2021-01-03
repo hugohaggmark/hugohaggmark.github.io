@@ -29,9 +29,7 @@ I chose the bootable VHD option because I love the feel of Windows 7 and the ric
 
 There's a lot of blogs out there that describe how to create a bootable VHD and so I will not list them here but I will give you a nice automated head start (without MB's of download).
 
-In the linked&nbsp;[CreateBootableVHD_v2]({{ site.baseurl }}/assets/other/CreateBootableVHD_v22.zip).zip you will find two files:
-
-&nbsp;
+In the linked [CreateBootableVHD_v2]({{ site.baseurl }}/assets/other/CreateBootableVHD_v22.zip).zip you will find two files:
 
 - CreateBootableVHD_v2.bat, the batch-file with all the magic :-)
 - Install-WindowsImage.ps1, a power shell script from [http://code.msdn.microsoft.com/InstallWindowsImage](http://code.msdn.microsoft.com/InstallWindowsImage).

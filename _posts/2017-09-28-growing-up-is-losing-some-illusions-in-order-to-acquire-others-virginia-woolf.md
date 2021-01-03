@@ -20,7 +20,7 @@ So when the doctor said you were gonna have to come out through a C-section we b
 
 But all those emotions were blown away the very moment you arrived. When I hold you in my arms all I could feel was love and happiness.
 
-I though as a parent you will learn your children &nbsp;everything you know but now I've learned it's the other way around. You've learnt me unconditional love, to be more relaxed, kindness, fairness and a lot of patience. You've given me so many wonderful moments with laughter, warmness, love and headaches sometimes.
+I though as a parent you will learn your children everything you know but now I've learned it's the other way around. You've learnt me unconditional love, to be more relaxed, kindness, fairness and a lot of patience. You've given me so many wonderful moments with laughter, warmness, love and headaches sometimes.
 
 I was merely a boy when you came and you made me into the man you hug every day.
 

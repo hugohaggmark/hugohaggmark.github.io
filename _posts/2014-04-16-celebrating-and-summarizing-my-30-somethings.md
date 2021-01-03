@@ -140,7 +140,7 @@ So I’ve picked up even more brain activities like all sorts of quiz games like
 Next thing to work on is my balance (thank god I’m a Snowboarder) and being even kinder to people as this great TED talk says.
 
 <iframe src="https://embed.ted.com/talks/lang/en/alanna_shaikh_how_i_m_preparing_to_get_alzheimer_s" height="315" width="420" frameborder="0" scrolling="no" allowfullscreen></iframe>
-&nbsp;
+ 
 ## Uncle Hugo
 
 We’re blessed with two great young men but during this decade my sister also had two kids of her own. I remember I got very emotional upon meeting them for the first time, brought back a lot of great memories from my time with our kids.
