@@ -31,13 +31,13 @@ So we change the automation status to Planned as you can see in the picture belo
 ### Problem
 
 As you can see the tester can’t set Automation Status in [Test Manager](http://msdn.microsoft.com/en-us/library/ms182409.aspx) to Automated because that state is missing from the list and if we zoom to the right side of the tab control we find that there’s no way of associating any tests either.  
-[![2.5]({{ site.baseurl }}/assets/images/2011/01/2.5_thumb.png "2.5")](http://www.hugohaggmark.com/wp-content/uploads/2011/01/2.5.png)
+![2.5]({{ site.baseurl }}/assets/images/2011/01/2.5_thumb.png "2.5")
 
 ### Solution
 
 Being that this was the first time I looked a this particular feature of [Test Manager](http://msdn.microsoft.com/en-us/library/ms182409.aspx) I must say that I got a little intrigued to say the least. After some Internet searching we still came up with nothing but when we opened up the same Test Case in [Visual Studio](http://www.microsoft.com/visualstudio/en-us) we finally saw the add button (marked with … in the picture below):
 
-[![2.51]({{ site.baseurl }}/assets/images/2011/01/2.51_thumb.png "2.51")](http://www.hugohaggmark.com/wp-content/uploads/2011/01/2.51.png)
+![2.51]({{ site.baseurl }}/assets/images/2011/01/2.51_thumb.png "2.51")
 
 ### Digging deeper
 
