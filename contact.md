@@ -6,7 +6,7 @@ permalink: /contact/
 
 ### Email
 
-hugo.haggmark+contact\_**[at]**\_gmail.com
+hugo.haggmark+contact_**[at]**_gmail.com
 
 > (Replace _**[at]**_ in email adress with _**@**_)
 
