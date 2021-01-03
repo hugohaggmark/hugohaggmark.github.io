@@ -6,9 +6,9 @@ permalink: /contact/
 
 ### Email
 
-hugo.haggmark+contact**[at]**gmail.com
+hugo.haggmark+contact[at]gmail.com
 
-> (Replace **[at]** in email adress with **@**)
+> (Replace _**[at]**_ in email adress with _**@**_)
 
 ![Signal logo]({{site.baseurl}}/assets/images/signal-logo.png)
 
