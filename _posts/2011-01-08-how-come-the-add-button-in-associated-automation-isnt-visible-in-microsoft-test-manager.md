@@ -26,13 +26,13 @@ So what’s this post about you might ask? Well during our work we stumbled onto
 
 As you can see in the picture below I’ve created a Test Case that some tester later gets to run.
 
-[![1]({{ site.baseurl }}/assets/images/2011/01/1_thumb.png "1")](http://www.hugohaggmark.com/wp-content/uploads/2011/01/1.png)
+![1]({{ site.baseurl }}/assets/images/2011/01/1_thumb.png "1")
 
 Suppose the tester runs this Test Case and finds a bug. Now we want to assign this bug to a developer who fixes the bug and associates a test with the test case in such way that the test case gets automated.
 
 So we change the automation status to Planned as you can see in the picture below:
 
-[![2]({{ site.baseurl }}/assets/images/2011/01/2_thumb.png "2")](http://www.hugohaggmark.com/wp-content/uploads/2011/01/2.png)
+![2]({{ site.baseurl }}/assets/images/2011/01/2_thumb.png "2")
 
 ### Problem
 
@@ -51,19 +51,19 @@ So it got very clear to me then that this behavior was by design but I still fel
 
 Looking at the Automation Status field in the Test Case WIT XML you’ll see this:
 
-[![3]({{ site.baseurl }}/assets/images/2011/01/3_thumb.png "3")](http://www.hugohaggmark.com/wp-content/uploads/2011/01/3.png)
+![3]({{ site.baseurl }}/assets/images/2011/01/3_thumb.png "3")
 
 As you can see in the XML you’ll never see the automated state if you haven’t assigned a Microsoft.VSTS.TCM.AutomatedTestId value which is exactly what you do when you associate a test with the add button like the picture below:
 
-[![7]({{ site.baseurl }}/assets/images/2011/01/7_thumb.png "7")](http://www.hugohaggmark.com/wp-content/uploads/2011/01/7.png)
+![7]({{ site.baseurl }}/assets/images/2011/01/7_thumb.png "7")
 
 Looking at the Associated Automation tab in the Test Case WIT you’ll see this:
 
-[![4]({{ site.baseurl }}/assets/images/2011/01/4_thumb.png "4")](http://www.hugohaggmark.com/wp-content/uploads/2011/01/4.png)
+![4]({{ site.baseurl }}/assets/images/2011/01/4_thumb.png "4")
 
 As you can see the Associated Automation tab implemented with a control called **AssociatedAutomationControl**. After some investigation with my favorite reflection utility [.Net Reflector](http://www.red-gate.com/products/dotnet-development/reflector/ ".Net Reflector") I found this section marked in red:
 
-[![10]({{ site.baseurl }}/assets/images/2011/01/10_thumb.png "10")](http://www.hugohaggmark.com/wp-content/uploads/2011/01/10.png)
+![10]({{ site.baseurl }}/assets/images/2011/01/10_thumb.png "10")
 
 It looks like depending on which ServiceProvider that is used when creating the **AssociatedAutomationControl** the Add button will be visible or not, TADA!
 

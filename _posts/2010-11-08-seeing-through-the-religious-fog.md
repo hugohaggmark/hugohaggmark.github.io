@@ -35,7 +35,7 @@ Finally I would really like to thank some people that really turned our vacation
 - The tattooist that made our Henna tattoos. The tattoos are awesome and please don’t offer the tattooist 10 LE for their work that embarrassing as a fellow country man to hear.
 - The guy who's about to get married and couldn’t sleep. Many good luck whishes from me and my whole family.
 - The guy who made us vases with colorful sand.
-- “Sponge Bob”- our snorkeling guide that pushed me to all sorts of crazy things and fetched a 3m long moray from the bottom of the sea, RESPECT! [![moray]({{ site.baseurl }}/assets/images/2010/11/moray_thumb.png "moray")](http://www.hugohaggmark.com/wp-content/uploads/2010/11/moray.png)
+- “Sponge Bob”- our snorkeling guide that pushed me to all sorts of crazy things and fetched a 3m long moray from the bottom of the sea, RESPECT! ![moray]({{ site.baseurl }}/assets/images/2010/11/moray_thumb.png "moray")
 
 And I would like to thank this great software for enabling me to create this post:
 

@@ -19,10 +19,10 @@ During my time away from Khan Academy it has grown into a real cool and modern e
 
 As a student you get merit badges and points the more knowledge you learn and the more practice exams you take. And there’s this concept of a knowledge map that shows your progress a long the way. As you can see I’ve only passed the basic Addition 1-2 but I feel motivated to continue because It becomes a fun game.
 
-[![image]({{ site.baseurl }}/assets/images/2011/03/image_thumb.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2011/03/image.png)
+![image]({{ site.baseurl }}/assets/images/2011/03/image_thumb.png "image")
 
 And as you take a practice test you get instant help, hints and shortcuts to a great videos that helps you understand the subject at hand.  
-[![khan2]({{ site.baseurl }}/assets/images/2011/03/khan2_thumb.png "khan2")](http://www.hugohaggmark.com/wp-content/uploads/2011/03/khan2.png)
+ ![khan2]({{ site.baseurl }}/assets/images/2011/03/khan2_thumb.png "khan2")
 
 I’ve already shown this to my kids so I have really high hopes for them becoming Math geniuses, do you have kids? If you do I encourage you to try it out, you’ll have a blast!
 

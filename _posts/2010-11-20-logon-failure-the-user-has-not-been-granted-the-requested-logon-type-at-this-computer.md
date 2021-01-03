@@ -23,7 +23,7 @@ So before I go ahead and try to check-in some great code in Source Control I alw
 
 Before we started this particular installation I told the guy I was pair installing with that if something was to go wrong it would most certainly be issues with connection to SQL Server Reporting Services. And as you can see below I was right:
 
-[![image]({{ site.baseurl }}/assets/images/2010/11/image_thumb.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2010/11/image.png)
+![image]({{ site.baseurl }}/assets/images/2010/11/image_thumb.png "image")
 
 _Note: all pictures are taken from my own environment and not from customer_
 
@@ -31,13 +31,13 @@ Here we go again I thought for myself…
 
 I won’t bore you with all the details but after some investigation and after consulting my own virtualized TFS farm (on my bootable vhd by the way, read post [here]({{ site.baseurl }}{% link _posts/2010-11-15-creating-a-bootable-vhd-the-easy-waycontinued.md %})) I found that although we had granted the “reports” account the “ **Allow log on locally** ” as instructed there was a domain policy that **denied** the “reports” account the same rights as you can see in the picture below.
 
-[![image]({{ site.baseurl }}/assets/images/2010/11/image_thumb1.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2010/11/image1.png)
+![image]({{ site.baseurl }}/assets/images/2010/11/image_thumb1.png "image")
 
 _Note: all pictures are taken from my own environment and not from customer_
 
 We hade the AD-department make an exception for this account on this computer and just like that our problem was solved.
 
-[![image]({{ site.baseurl }}/assets/images/2010/11/image_thumb2.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2010/11/image2.png)
+![image]({{ site.baseurl }}/assets/images/2010/11/image_thumb2.png "image")
 
 _Note: all pictures are taken from my own environment and not from customer_
 

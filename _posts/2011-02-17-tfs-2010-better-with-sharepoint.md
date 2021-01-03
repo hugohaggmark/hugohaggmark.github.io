@@ -20,7 +20,7 @@ You wouldn’t buy a car without a dashboard or would you?
 
 If we take a look at the Dashboard for the MSF Agile process template you’ll should see something like so:
 
-[![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2011/02/image.png)
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb.png "image")
 
 ###
 
@@ -28,7 +28,7 @@ If we take a look at the Dashboard for the MSF Agile process template you’ll s
 
 You have detailed information of your projects current speed much like the speedometer in your car like so:
 
-[![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb1.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2011/02/image1.png)
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb1.png "image")
 
 ###
 
@@ -36,7 +36,7 @@ You have detailed information of your projects current speed much like the speed
 
 You get an overview of the contents of your project like so:
 
-[![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb2.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2011/02/image2.png)
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb2.png "image")
 
 You could compare this to your gas gauge in your car or any other information gauges that tell you detailed information about the car.
 
@@ -44,23 +44,23 @@ You could compare this to your gas gauge in your car or any other information ga
 
 Visualize the state of your build for all projectmembers and answers questions like why are builds breaking by drilling down to the individual builds directly from SharePoint.
 
-[![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb3.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2011/02/image3.png)
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb3.png "image")
 
 ### Checkins
 
 You also get an overview of the latest checkins and you drill into the details directly from SharePoint.
 
-[![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb4.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2011/02/image4.png)
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb4.png "image")
 
 ### Work with your Work Items
 
 You can even get down and work with your Work Items directly from SharePoint in various ways:
 
-[![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb5.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2011/02/image5.png)
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb5.png "image")
 
 Interested in a specific Work Item? Use this shortcut:
 
-[![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb6.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2011/02/image6.png)
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb6.png "image")
 
 ## Document Management
 

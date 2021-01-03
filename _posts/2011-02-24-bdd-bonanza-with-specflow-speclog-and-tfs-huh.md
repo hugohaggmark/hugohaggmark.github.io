@@ -29,15 +29,15 @@ If you are using the MSF Agile process template make sure you’ve downloaded ve
 ### Installing the MSI
 
 Make sure you’ve logged in on your TFS server. Run the downloaded msi and make sure you select all components like this picture:  
-[![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb7.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2011/02/image7.png)
+ ![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb7.png "image")
 
 ### Create service account
 
-Create a service account like the picture below:[![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb8.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2011/02/image8.png)
+Create a service account like the picture below: ![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb8.png "image")
 
 Give the same service account Log on as a Service rights as the picture shows.
 
-[![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb9.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2011/02/image9.png)
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb9.png "image")
 
 After this you have to start a command prompt as Adminstrator and do the following:
 
@@ -50,7 +50,7 @@ After this you have to start a command prompt as Adminstrator and do the followi
 
 Create a shared folder that gives [YOURDOMAIN]\SpecLogSvc contribute rights to that folder like so:
 
-[![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb10.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2011/02/image10.png)
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb10.png "image")
 
 ### Follow the instructions given from TechTalk
 
@@ -61,31 +61,31 @@ In your SpecLog folder you will have two folders, one called **Server** and one 
 - The default log path is under %LOCALAPPDATA%\SpecLog so I changed it to the same shared folder created earlier.
 - When you create the windows services you’ll be prompted with username and password. It’s very important to enter the username in the format [**YOURDOMAIN**]\[**ServiceAccount**]. Otherwise you’ll get an error.
 
-[![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb11.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2011/02/image11.png)
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb11.png "image")
 
 ### Testing
 
 You have to connect to a shared repository to get the TFS integration working like the picture shows below:
 
-[![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb12.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2011/02/image12.png)
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb12.png "image")
 
 Next steps are to start working on your requirements ![Skrattar]({{ site.baseurl }}/assets/images/2011/02/wlEmoticon-openmouthedsmile.png)! Well I’ve made a simple screen capture that shows how it could look.
 
-[![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb13.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2011/02/image13.png)
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb13.png "image")
 
 And If we take a look at the US3 user story we will find this nice overlook. Notice how you can see the TFS source controlled Gherkin file connected to this User Story.
 
-[![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb14.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2011/02/image14.png)
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb14.png "image")
 
 The same User Story would look like this in [Visual Studio](http://www.microsoft.com/visualstudio/en-us "Visual Studio"):
 
-[![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb15.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2011/02/image15.png)
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb15.png "image")
 
-[![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb16.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2011/02/image16.png)
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb16.png "image")
 
 And as you can see the integration works...the service account does all the job:
 
-[![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb17.png "image")](http://www.hugohaggmark.com/wp-content/uploads/2011/02/image17.png)
+![image]({{ site.baseurl }}/assets/images/2011/02/image_thumb17.png "image")
 
 I must say that things are truly starting to come full circle with SpecLog and I hope that my small post will get you started with SpecLog integration with TFS.
 
