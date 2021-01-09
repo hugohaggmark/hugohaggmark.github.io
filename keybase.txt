@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/hugohaggmark
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.hugohaggmark.com
+  * I am hugohaggmark (https://keybase.io/hugohaggmark) on keybase.
+  * I have a public key with fingerprint C7B5 7E2E 1642 FC5A A3F9  5C7D 5615 CF3B 96CF B1E2
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f62207c47bc45145e8589467e82f6b3594eaa9a04a350a4d30bd161d8c4dfb200a",
+      "fingerprint": "c7b57e2e1642fc5aa3f95c7d5615cf3b96cfb1e2",
+      "host": "keybase.io",
+      "key_id": "5615cf3b96cfb1e2",
+      "kid": "010100852878a3bbefac24489f34f5da0df05e71300785ca2c2bbd7ffc8346ceb6400a",
+      "uid": "14dfe1b8cbbc2e748d9452658b4fe319",
+      "username": "hugohaggmark"
+    },
+    "service": {
+      "hostname": "www.hugohaggmark.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1610180735,
+  "expire_in": 157680000,
+  "prev": "0a3586a084fb01ac09b0fca47beecab91d4840f2c4b93ac3954ded6eccfa6a28",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMN2AnicbVJ7UFRVHF7AR4CG8TATRbhNjlML3PcDUCdjGAlSYBAqwOWcc8/dvS3c
+hd2FTREpURn8IweMR6ANQko7Q0kzpIOTxctiNMSxKR8RLwtzRERnasFpqLukM/3R
+OX+cOed833e+3/c7Ayv9DAE+WWHD8fXDX0z6XO79pMRgmrdUlBHQJu8h4soIK15c
+cIGMHU6TVZWJOIKkaFLhaZoUECtAxHIUy2GREyWWF7BIKzxkOInFAEiAZAHDkYCV
+GRLKFE/JImJlBdIkCQgjoaiaGduL7Krm1GWRADkB05jiWVpBHACMInFIkDme4pDC
+QIlHCqQwrRMtNoeXoZuDwIFjVJt+pm9Mi/b+B//Utz5JkaNFQQQMhFgBiGZZUVIY
+VuFkQMoKyWGBYkhSEDkEaERDKAuKgkSG5RGGPPuv75JFOUqvBFNQRBAiGgusKEss
+R/OcCFkFM5TkBTqwXQOFWEdbSsw2CzCbC4HdSpQbCf2mVEXYG663micol8sV819k
+DLIV6jpFdpvThmwFXh2ns8gR51Vw7ilapGBoeiJmgqom65nqjFJsd6g2jYijdCRy
+ql51PX+SEkmB4YwEfrdItWOT6kVwAi+S+vC+g0u9QelNE3lAiqwCSQogUoKkgoDe
+bIwRgBIlsyJLKjRiocQAxEgcK2OZxwgpgAe0SHjLK9ZsRBzD6D6BWdd0qGYNOEvs
+mCjv681dYvAJMCxb6uv9bIYA/1VPv+DB5UF/u8wSUV7WVZ24W9qYU2OPervS8t31
+BfeUJ8QwElXZftzw14vG/jdX1VCVV1snf9rfS5YMj0d/OqJFRr+srR252tc6N7sl
+eFf9hn0tLTuV5pdGeCtxHnkKDhxryy58I9u/on/8y4hd6ujDdPuwhbw3aNaOtfTN
+Ns0bty07URM+Oeo4Wj3ceOvIH7sjVr/w4C332MWEjdZ+v7qvb/tv3ete0sM977uu
+PLGBadh27VHrJmps/UzFmtj9+4rAiqMnG2GOJ82w+kTsjm+DrI09kf6dQ+97soqT
+r0V3GkoXckLT4oeQn8/5+JMtOxpr1UuNnsB8Dxd4MLMXnDm73rBpMHZ4KTea0ZZW
+1n7FYalKSnhdS89dmLuQ+n2u69z01IfbqzI7JI/Dx3RItd/sjnJsme9MCnruB/Kj
+lO7TxeduHbpQODO1oSBQjH+ntnk0+8zt6YthdXN/JqZ+XJXcpkU+zm/iVsTsRNab
+n2dFvLqSeXBkc/VQV0itI8B949I3EXfCJx42bw12Hw/Nuz69dnRaOVXwla9bHR8M
+u7u349AN2+xYfn89nvkgOvv+z1qpMnJ2In86L+SZ4IxMS1Pn3R6mLjCj5PFnv7b7
+zjY8+r2j+/D9exOhrs7iVyx3Ik6n4JSuwLzCxKqkK89uHjiQbDTX8emp8sD29h8t
+rxVLQXHvrUkI/yWe+W301OV1y/8BEPjGZA==
+=CadX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hugohaggmark
+
+==================================================================
