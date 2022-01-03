@@ -32,7 +32,7 @@ paginate: 4
 paginate_path: "/page:num/"
 
 # Build settings
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-paginate
