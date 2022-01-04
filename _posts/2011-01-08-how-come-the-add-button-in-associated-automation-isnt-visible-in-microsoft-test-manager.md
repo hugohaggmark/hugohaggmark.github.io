@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How come the add button in Associated Automation isn’t visible in Microsoft
   Test Manager?
 date: 2011-01-08 11:56:00.000000000 +01:00

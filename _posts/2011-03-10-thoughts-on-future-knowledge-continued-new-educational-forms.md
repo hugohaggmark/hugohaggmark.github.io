@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Thoughts on future knowledge continued, new educational forms
 date: 2011-03-10 11:55:00.000000000 +01:00
 tags:

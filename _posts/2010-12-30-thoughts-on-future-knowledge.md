@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Thoughts on future knowledge
 date: 2010-12-30 11:56:00.000000000 +01:00
 tags:

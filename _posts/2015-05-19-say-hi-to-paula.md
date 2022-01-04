@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Say hi to Paula
 date: 2015-05-19 19:57:55.000000000 +02:00
 tags:

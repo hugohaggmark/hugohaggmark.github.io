@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Generating BizTalk binding files with Excel automation in a TFS Build
 date: 2011-04-13 17:25:43.000000000 +02:00
 tags:

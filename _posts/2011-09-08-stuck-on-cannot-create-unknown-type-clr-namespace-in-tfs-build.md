@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Stuck on “Cannot create unknown type {clr-namespace:” in TFS Build?
 date: 2011-09-08 15:51:00.000000000 +02:00
 tags:

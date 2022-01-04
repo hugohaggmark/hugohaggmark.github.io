@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The build process could not be deserialized due to…
 date: 2011-10-20 15:44:00.000000000 +02:00
 tags:

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Differences between TFS 2010 on SharePoint Foundation and SharePoint Server
 date: 2010-11-08 12:21:32.000000000 +01:00
 tags:

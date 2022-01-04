@@ -1,5 +1,4 @@
 ---
-layout: post
 title: '"Growing up is losing some illusions, in order to acquire others." -Virginia
   Woolf'
 date: 2017-09-28 06:20:15.000000000 +02:00

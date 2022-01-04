@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The beginning of the End, the Swedish avtackningsfika…
 date: 2013-12-03 12:18:45.000000000 +01:00
 tags:

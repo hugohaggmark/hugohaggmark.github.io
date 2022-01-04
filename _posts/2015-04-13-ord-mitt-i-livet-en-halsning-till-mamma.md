@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ord mitt i livet, en hälsning till mamma
 date: 2015-04-13 06:48:38.000000000 +02:00
 tags:

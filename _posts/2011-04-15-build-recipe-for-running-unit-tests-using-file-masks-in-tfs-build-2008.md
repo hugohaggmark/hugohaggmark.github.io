@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Build recipe for running unit tests using file masks in TFS Build 2008
 date: 2011-04-15 08:46:00.000000000 +02:00
 tags:

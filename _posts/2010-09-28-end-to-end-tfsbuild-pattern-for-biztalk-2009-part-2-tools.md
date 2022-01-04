@@ -1,5 +1,4 @@
 ---
-layout: post
 title: End to end TFSBuild pattern for BizTalk 2009, part 2 (Tools)
 date: 2010-09-28 07:00:44.000000000 +02:00
 tags:

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The easiest way to Install and Boot Windows 8 Developer Preview off a VHD (Virtual
   Hard Disk)
 date: 2011-09-17 16:28:00.000000000 +02:00

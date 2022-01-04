@@ -1,5 +1,4 @@
 ---
-layout: post
 title: End to end TFSBuild pattern for BizTalk 2009, part 1 (Environment)
 date: 2010-09-26 08:37:58.000000000 +02:00
 tags:

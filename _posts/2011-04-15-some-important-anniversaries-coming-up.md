@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Some important anniversaries coming up
 date: 2011-04-15 10:26:00.000000000 +02:00
 tags:

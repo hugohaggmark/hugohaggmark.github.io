@@ -1,5 +1,4 @@
 ---
-layout: post
 title: BDD Bonanza with SpecFlow, SpecLog and TFS, huh?
 date: 2011-02-24 16:37:00.000000000 +01:00
 tags:

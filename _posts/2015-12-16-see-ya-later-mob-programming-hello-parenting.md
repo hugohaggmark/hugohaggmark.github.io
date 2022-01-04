@@ -1,5 +1,4 @@
 ---
-layout: post
 title: See ya later Mob programming, hello parenting
 date: 2015-12-16 08:00:20.000000000 +01:00
 tags:

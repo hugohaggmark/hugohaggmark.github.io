@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Creating a bootable VHD the easy way…about Indexes
 date: 2011-04-05 08:14:00.000000000 +02:00
 tags:

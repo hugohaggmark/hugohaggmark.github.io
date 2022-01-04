@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Giving back to the world
 date: 2017-02-06 11:30:02.000000000 +01:00
 tags:

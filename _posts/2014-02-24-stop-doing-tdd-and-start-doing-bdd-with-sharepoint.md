@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Stop doing TDD and start doing BDD with SharePoint!
 date: 2014-02-24 12:00:10.000000000 +01:00
 tags:
