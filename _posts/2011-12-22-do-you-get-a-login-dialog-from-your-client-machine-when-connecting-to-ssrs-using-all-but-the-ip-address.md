@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Do you get a Login dialog from your client machine when connecting to SSRS
   using all but the IP-address?
 date: 2011-12-22 13:43:00.000000000 +01:00

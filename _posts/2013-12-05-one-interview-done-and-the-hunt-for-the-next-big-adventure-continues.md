@@ -1,5 +1,4 @@
 ---
-layout: post
 title: One Interview done and the hunt for the next big adventure continues
 date: 2013-12-05 09:41:16.000000000 +01:00
 tags:

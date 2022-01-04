@@ -1,5 +1,4 @@
 ---
-layout: post
 title: My very own Taskmanager in HTML 5, SignalR, Nancy and AngularJS
 date: 2013-12-21 17:10:15.000000000 +01:00
 tags:

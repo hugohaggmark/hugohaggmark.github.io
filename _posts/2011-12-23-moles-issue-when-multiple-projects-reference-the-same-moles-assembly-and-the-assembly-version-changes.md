@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Moles issue when multiple projects reference the same moles assembly and the
   assembly version changes
 date: 2011-12-23 11:15:00.000000000 +01:00

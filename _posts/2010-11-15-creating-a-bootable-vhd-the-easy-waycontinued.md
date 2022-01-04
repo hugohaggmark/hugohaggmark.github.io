@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Creating a bootable VHD the easy way…continued
 date: 2010-11-15 21:34:00.000000000 +01:00
 tags:

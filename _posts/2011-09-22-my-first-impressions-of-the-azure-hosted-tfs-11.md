@@ -1,5 +1,4 @@
 ---
-layout: post
 title: My first impressions of the Azure hosted TFS 11
 date: 2011-09-22 10:17:34.000000000 +02:00
 tags:

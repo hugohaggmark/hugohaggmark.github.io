@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Introducing Fluxo a Kanban dashboard for Trello Boards
 date: 2015-04-14 06:50:57.000000000 +02:00
 tags:

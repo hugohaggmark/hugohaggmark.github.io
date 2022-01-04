@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Building and Unit Testing .Net 4.0 with Team Build 2008, the correct order
 date: 2011-03-03 10:44:00.000000000 +01:00
 tags:

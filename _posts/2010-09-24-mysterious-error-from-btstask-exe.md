@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Mysterious error from BTSTask.exe
 date: 2010-09-24 19:24:54.000000000 +02:00
 tags:

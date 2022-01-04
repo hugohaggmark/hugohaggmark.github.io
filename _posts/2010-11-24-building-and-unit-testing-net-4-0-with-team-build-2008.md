@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Building and Unit Testing .Net 4.0 with Team Build 2008
 date: 2010-11-24 19:56:00.000000000 +01:00
 tags:

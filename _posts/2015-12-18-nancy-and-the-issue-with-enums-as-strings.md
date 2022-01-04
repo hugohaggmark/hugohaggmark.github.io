@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Nancy and the issue with Enums as strings
 date: 2015-12-18 11:00:12.000000000 +01:00
 tags:

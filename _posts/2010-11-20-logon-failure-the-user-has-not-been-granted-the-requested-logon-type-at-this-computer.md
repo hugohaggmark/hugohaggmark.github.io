@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Logon failure: the user has not been granted the requested logon type at this
   computer"
 date: 2010-11-20 11:12:00.000000000 +01:00

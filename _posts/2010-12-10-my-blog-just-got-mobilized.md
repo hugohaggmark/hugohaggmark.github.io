@@ -1,5 +1,4 @@
 ---
-layout: post
 title: My blog just got Mobilized
 date: 2010-12-10 13:01:00.000000000 +01:00
 tags:

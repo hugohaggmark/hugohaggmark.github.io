@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The perils of using “.Tests” as a file mask for unit tests in TFS Build
 date: 2011-04-15 07:47:00.000000000 +02:00
 tags:

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Freedom and the hunt for the next big adventure
 date: 2013-12-03 10:11:12.000000000 +01:00
 tags:

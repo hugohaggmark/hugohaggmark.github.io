@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Build partially succeeded, but hey no (obvious) errors!
 date: 2010-12-08 17:50:00.000000000 +01:00
 tags:

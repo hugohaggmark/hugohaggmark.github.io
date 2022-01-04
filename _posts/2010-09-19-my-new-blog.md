@@ -1,5 +1,4 @@
 ---
-layout: post
 title: My new blog
 date: 2010-09-19 10:17:39.000000000 +02:00
 tags:

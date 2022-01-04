@@ -1,5 +1,4 @@
 ---
-layout: post
 title: '"Life would be infinitely happier if we could only be born at the age of eighty and gradually approach eighteen." - Mark Twain'
 date: 2019-11-10 07:00:37.000000000 +01:00
 tags:

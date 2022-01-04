@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Mob programming in short
 date: 2015-06-04 07:24:35.000000000 +02:00
 tags:

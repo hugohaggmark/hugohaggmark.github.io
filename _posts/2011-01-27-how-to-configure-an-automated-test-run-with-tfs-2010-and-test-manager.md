@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How to configure an automated test run with TFS 2010 and Test Manager
 date: 2011-01-27 22:14:00.000000000 +01:00
 tags:

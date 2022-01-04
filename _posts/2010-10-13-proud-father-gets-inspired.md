@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Proud father gets inspired
 date: 2010-10-13 07:00:00.000000000 +02:00
 tags:

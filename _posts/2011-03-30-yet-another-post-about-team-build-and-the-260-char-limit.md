@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Yet another post about Team Build and the 260+ char limit
 date: 2011-03-30 12:57:00.000000000 +02:00
 tags:

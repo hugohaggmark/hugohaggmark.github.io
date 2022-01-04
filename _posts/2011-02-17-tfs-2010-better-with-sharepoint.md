@@ -1,5 +1,4 @@
 ---
-layout: post
 title: TFS 2010 better with SharePoint
 date: 2011-02-17 21:55:00.000000000 +01:00
 tags:

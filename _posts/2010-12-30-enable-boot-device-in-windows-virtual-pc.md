@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Enable boot device in Windows Virtual PC
 date: 2010-12-30 12:30:38.000000000 +01:00
 categories:

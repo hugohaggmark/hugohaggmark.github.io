@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Seeing through the religious fog
 date: 2010-11-08 19:32:00.000000000 +01:00
 tags:

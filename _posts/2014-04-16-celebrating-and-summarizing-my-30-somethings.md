@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Celebrating and summarizing my 30 something’s
 date: 2014-04-16 08:00:06.000000000 +02:00
 tags:

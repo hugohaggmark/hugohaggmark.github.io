@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Leaving Microsoft–Entering Avega Group
 date: 2010-10-19 13:32:05.000000000 +02:00
 tags:

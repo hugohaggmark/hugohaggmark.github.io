@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How I used Moles in a real life BizTalk scenario
 date: 2011-09-12 11:14:00.000000000 +02:00
 tags:

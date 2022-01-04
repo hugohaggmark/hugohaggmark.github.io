@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How Do I Do Moles?
 date: 2012-01-04 13:05:00.000000000 +01:00
 tags:

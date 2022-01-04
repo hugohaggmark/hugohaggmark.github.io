@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How do I find stuff in TFS 2010?
 date: 2011-09-09 13:32:00.000000000 +02:00
 tags:
