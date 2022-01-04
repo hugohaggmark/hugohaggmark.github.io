@@ -107,16 +107,13 @@ defaults:
 comments:
   provider: "giscus"
   giscus:
-    repo: "hugohaggmark/hugohaggmark.github.io"
-    repo_id: "MDEwOlJlcG9zaXRvcnkyNzU4Mjk1NTc="
-    category_name: "Comments"
-    category_id: "DIC_kwDODn7xcM4CAiNq"
+    repo_id: "MDEwOlJlcG9zaXRvcnkyNDMyMDAzNjg="
+    category_name: "Post Comments"
+    category_id: "DIC_kwDODn7xcM4CAiSi"
     discussion_term: "pathname"
     reactions_enabled: "1"
     theme: "dark_dimmed"
     crossorigin: "anonymous"
-    lang: "en"
-    emit_metadata: "0"
 
 analytics:
   provider: "google-universal"
