@@ -92,7 +92,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false
+      comments: true
       share: false
       related: true
       show_date: true
@@ -107,12 +107,13 @@ defaults:
 comments:
   provider: "giscus"
   giscus:
-    repo_id: "hugohaggmark/hugohaggmark.github.io"
+    repo_id: "MDEwOlJlcG9zaXRvcnkyNzU4Mjk1NTc="
     category_name: "Comments"
     category_id: "DIC_kwDODn7xcM4CAiNq"
     discussion_term: "pathname"
     reactions_enabled: "1"
     theme: "dark_dimmed"
+    crossorigin: "anonymous"
 
 analytics:
   provider: "google-universal"
