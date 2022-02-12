@@ -19,12 +19,16 @@ My last day at Grafana Labs will be the 25th of Februrary.
 
 ## My Grafana Labs history in numbers
 
-- More than 620 PRs merged
-- Squashed 186 bugs
-- Created more than 14 releases
-- More than 1075 PR reviews
-- One of the [top 10 contributors](https://github.com/grafana/grafana/graphs/contributors)
-- More than 130 567 additions
-- More than 88 685 deletions
-- Lead more than 35 recruitmend interviews for front end positions
-- 
+- I've worked around 565 days excluding public holidays, vacations and sick days 
+- I've merged more than 620 PRs
+- I've squashed 186 bugs
+- I've created more than 14 releases
+- I've reviewed more than 1075 PRs
+- I was one of the ![top 5 contributors]({{ site.baseurl }}/assets/top5_grafana_contributors.png)
+- I've created more than 130 567 additions
+- I've created more than 88 685 deletions
+- I've lead more than 35 recruitmend interviews for front end positions
+
+## What other Grafanistas say
+
+
