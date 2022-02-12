@@ -17,15 +17,16 @@ My last day at Grafana Labs will be the 25th of Februrary.
 
 ## My Grafana Labs history in numbers
 
-- I worked around 565 days excluding public holidays, vacations and sick days 
-- I merged more than 620 PRs
+- I worked ca 565 days excluding public holidays, vacations and sick days 
+- I merged 620 PRs
 - I squashed 186 bugs
-- I created more than 14 releases
-- I reviewed more than 1075 PRs
+- I created 118 issues
+- I created 14 releases
+- I reviewed 1075 PRs
 - I was one of the ![top 5 contributors]({{ site.baseurl }}/assets/top5_grafana_contributors.png)
-- I created more than 130 567 additions to OSS Grafana
-- I created more than 88 685 deletions to OSS Grafana
-- I lead more than 35 recruitmend interviews for front end positions
+- I created 130 567 additions to OSS Grafana
+- I created 88 685 deletions to OSS Grafana
+- I lead 35 recruitmend interviews for front end positions
 - I created 1 [blog post](https://grafana.com/blog/2020/06/22/migrating-grafanas-template-variables-from-angularjs-to-react-a-tale-of-failures-and-wins/)
 - I sent more than 565 `Good Morning 👋` in our `#random` Slack channel (yes I'm that guy)
 - I had 3 mentees
