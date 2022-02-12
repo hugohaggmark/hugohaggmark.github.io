@@ -27,7 +27,7 @@ My last day at Grafana Labs will be the 25th of Februrary.
 - I created more than 88 685 deletions to OSS Grafana
 - I lead more than 35 recruitmend interviews for front end positions
 - I created 1 [blog post](https://grafana.com/blog/2020/06/22/migrating-grafanas-template-variables-from-angularjs-to-react-a-tale-of-failures-and-wins/)
-- I sent more than 565 `Good Morning 👋` in our `#random` Slack channel
+- I sent more than 565 `Good Morning 👋` in our `#random` Slack channel (yes I'm that guy)
 - I had 3 mentees
 
 ## What other Grafanistas say
