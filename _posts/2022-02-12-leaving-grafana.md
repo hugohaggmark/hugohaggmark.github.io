@@ -13,7 +13,7 @@ If you want to join a great, transparent, and fun company filled with great coll
 
 So why leave then Hugo? Well my reasons for leaving Grafana Labs are purely personal but every so often I still ask my self if I'm going insane. 
 
-In the end I'm a curious person who is passionate about learning new things so I figuered that it was time to try something brand new. Not sure what that is going to be right now but I'm sure I'll find something with time.
+In the end I'm a curious person who is passionate about learning new things so I figuered that it was time to try something brand new. Not sure what that is going to be right now but I'm sure I'll find something fun and exciting with a little time.
 
 My last day at Grafana Labs will be the 25th of Februrary.
 
