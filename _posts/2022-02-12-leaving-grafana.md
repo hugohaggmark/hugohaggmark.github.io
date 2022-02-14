@@ -31,6 +31,8 @@ My last day at Grafana Labs will be the 25th of Februrary.
 - I sent more than 565 `Good Morning 👋` in our `#random` Slack channel (yes I'm that guy)
 - I had 3 mentees
 
-## What other Grafanistas say
+Cheers,
+
+Hugo
 
 
