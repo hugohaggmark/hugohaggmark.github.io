@@ -5,8 +5,6 @@ tags:
   - Personal
 permalink: "/2022/02/12/leaving-grafana/"
 ---
-# Leaving Grafana Labs
-
 ## Background
 I joined Grafana Labs in January 2019 when the company was still relatively small, around 40 people. It's been an amazing, exciting and exhausting journey at times, but mostly fun. 
 If you want to join a great, transparent, and fun company filled with great colleagues I highly recommend checking out [Grafana Labs careers page](https://grafana.com/about/careers). 
