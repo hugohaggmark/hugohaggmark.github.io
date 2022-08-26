@@ -5,7 +5,7 @@ permalink: /contact/
 
 ### Email
 
-hugo.haggmark+contact[at]gmail.com
+hugoh[at]duck.com
 
 > (Replace _**[at]**_ in email adress with _**@**_)
 
